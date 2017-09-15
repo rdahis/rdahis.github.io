@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Research
+title:
 permalink: /research/
 ---
 
-Paper1
+Paper 1
 
 
 
