@@ -5,6 +5,7 @@
 layout: home
 ---
 
+<img src="/pictures/profile.jpg" alt="profile" style="width: 350px;" align="right"  />
 
 I am a 3rd year PhD student in Economics at Northwestern University. I’m also founder and co-organizer of the [Empirics and Methods in Economics Conference (EMCON)](https://www.emconference2017.wordpress.com). Here is my CV and SSRN.
 
@@ -16,7 +17,4 @@ Contact:
 
 Email: rdahis@u.northwestern.edu
 
-testing this  | what about that?
 
-
-<img src="/pictures/profile.jpg" alt="profile" style="width: 500px;" align="right"  />
