@@ -16,4 +16,5 @@ Contact:
 
 Email: rdahis@u.northwestern.edu
 
-![profile](/pictures/profile.jpg){:class="img-responsive" :height="700px" width="400px"}
+
+<img src="/pictures/profile.jpg" alt="profile" style="width: 200px;"/>
