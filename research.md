@@ -18,7 +18,10 @@ permalink: /research/
 > _How are institutions determined? This paper studies how legislators locally choose an important dimension of local electoral systems, namely legislative size. To achieve this end, I construct a novel data set comprised of seat proposals and individual legislators’ votes to increase or not legislative size during the pre-2012 election period for a sample of municipalities in Brazil. I then outline and estimate a structural discrete choice model of legislative vote, in which legislators play a strategic game and also decide whether to run for reelection or not. I find that legislators weigh on average approximately 34% reelection payoffs and 66% social welfare when choosing seats. With these results, I run some counterfactual analyses varying the population caps’ function that federal government chooses._
 
 
+
 --- 
+
+
 
 **Current Projects**
 
