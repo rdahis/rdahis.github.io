@@ -16,5 +16,7 @@ Contact:
 
 Email: rdahis@u.northwestern.edu
 
+testing this  | ![](/pictures/profile.jpg)
+one more line |
 
-<img src="/pictures/profile.jpg" alt="profile" style="width: 500px;" align="right"  />
+#<img src="/pictures/profile.jpg" alt="profile" style="width: 500px;" align="right"  />
