@@ -15,3 +15,5 @@ Contact:
 2211 Campus Drive, Evanston, IL 60208, United States – Office 3430
 
 Email: rdahis@u.northwestern.edu
+
+![profile](/pictures/profile.jpg){:class="img-responsive"}
