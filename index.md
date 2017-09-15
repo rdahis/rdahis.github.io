@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="/pictures/profile.jpg" alt="profile" style="width: 350px;" align="right"  />
+<img src="/files/profile.jpg" alt="profile" style="width: 350px;" align="right"  />
 
 I am a 3rd year PhD student in Economics at Northwestern University. I’m also founder and co-organizer of the [Empirics and Methods in Economics Conference (EMCON)](https://www.emconference2017.wordpress.com). Here is my [CV](/files/CV - Ricardo Dahis.pdf) and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2786164).
 
