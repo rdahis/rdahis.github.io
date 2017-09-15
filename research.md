@@ -4,8 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-
-**Working Papers**
+# Working Papers
 
 - The Fluidity of Race: “Passing” in the United States, 1880-1940 [[pdf](http://www.nber.org/papers/w20828)] (with Emily Nix and Nancy Qian), NBER Working Paper 20828
 
@@ -21,8 +20,8 @@ permalink: /research/
 
 <br><br>
 ---
-<br><br>
 
-**Current Projects**
+
+# Current Projects
 
 1. Redistricting, State Capacity and Development: Evidence from Brazilian Municipalities (with Christiane Szerman)
