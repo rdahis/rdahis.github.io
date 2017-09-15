@@ -9,8 +9,10 @@ permalink: /research/
 - The Fluidity of Race: “Passing” in the United States, 1880-1940 [[pdf](http://www.nber.org/papers/w20828)] (with Emily Nix and Nancy Qian), NBER Working Paper 20828
 
 > _This paper quantifies the extent to which individuals experience changes in reported racial identity in the historical U.S. context. Using the full population of historical Censuses for 1880-1940, we document that over 19% of black males “passed” for white at some point during their lifetime, around 10% of whom later “reverse-passed” to being black; passing was accompanied by geographic relocation to communities with a higher percentage of whites and occurred the most in Northern states. The evidence suggests that passing was positively associated with better political-economic and social opportunities for whites relative to blacks. As such, endogenous race is likely to be a quantitatively important phenomenon._
+
 <br><br>
 - Is economics a science? Well, not yet. [[pdf](https://www.dropbox.com/s/940fmjewej8ndcd/Dahis_IEAS.pdf?dl=0)]
+
 <br><br>
 - Choosing Institutions Locally: Determinants of Legislative Size in Brazil (available upon request)
 
@@ -18,6 +20,7 @@ permalink: /research/
 
 <br><br>
 ---
+
 ## Current Projects
 
-1. Redistricting, State Capacity and Development: Evidence from Brazilian Municipalities (with Christiane Szerman)
+- Redistricting, State Capacity and Development: Evidence from Brazilian Municipalities (with Christiane Szerman)
