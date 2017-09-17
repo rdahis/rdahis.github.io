@@ -25,6 +25,9 @@ github_username:  rdahis
 linkedin_username: ricardo-dahis-6092b2a3
 stackoverflow_username: ricardo-dahis
 
+# Google Analytics
+google_analytics: UA-106568021-1
+
 # Build settings
 markdown: kramdown
 theme: minima
