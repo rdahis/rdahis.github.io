@@ -22,34 +22,13 @@
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
 
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-
-          {% if site.facebook_username %}
-            <li>
-              <a href="https://www.facebook.com/{{ site.facebook_username }}">
-                <i class="fa fa-facebook"></i> Facebook
-              </a>
-            </li>
-          {% endif %}
-
-          {% if site.linkedin_username %}
-            <li>
-              <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-                <i class="fa fa-linkedin"></i> LinkedIn
-              </a>
-            </li>
-          {% endif %}
-
+          {% if site.twitter_username %}<a href="http://twitter.com/{{ site.twitter_username }}">{% include svg-icons/twitter.html %}</a>{% endif %}
+          {% if site.facebook_username %}<a href="http://facebook.com/{{ site.facebook_username }}">{% include svg-icons/facebook.html %}</a>{% endif %}
+          {% if site.email %}<a href="mailto:{{ site.email }}">{% include svg-icons/email.html %}</a>{% endif %}
+          {% if site.github_username %}<a href="http://github.com/{{ site.github_username }}">{% include svg-icons/github.html %}</a>{% endif %}
+          {% if site.linkedin_username %}<a href="http://linkedin.com/in/{{ site.linkedin_username }}">{% include svg-icons/linkedin.html %}</a>{% endif %}
+          {% if site.stackoverflow_username %}<a href="http://stackoverflow.com/{{ site.stackoverflow_username }}">{% include svg-icons/stackoverflow.html %}</a>{% endif %}
 
         </ul>
       </div>
