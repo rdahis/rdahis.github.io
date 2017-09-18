@@ -10,7 +10,6 @@ Botei um anúncio num site de vendas para vender um celular Samsung S4. A histó
 
 Depois de um mês anunciado no site, depois de 28 emails e 7 ligações, me aparece o Valmir. Como todas as ligações de números desconhecidos pra mim nessas semanas são sobre os anúncios, já atendi com tom impaciente de vendedor.
 
-
 – Alô. Quem está falando?
 
 – Oi, aqui é o Valmir.
