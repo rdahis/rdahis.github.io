@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The (Almost) Impossible Triad"
+date:   2015-11-09
+categories: uncategorized
+tags: economics, innovation, research, phd
+---
+
+In research, for an idea to be good, it has to satisfy the triad of being new, interesting and feasible. But of course most of the times it satisfies at most two of the requirements.
+
+It can be new and very interesting, but totally impossible to develop concretely. It can also be feasible and new, but no one cares about the question (which will probably be why nobody has written a paper about it yet). Or it can be interesting and feasible, but someone else will have already written something about it. The no-arbitrage law is also strong in academic production.
+
+But fear not. Carry on PhD students!
