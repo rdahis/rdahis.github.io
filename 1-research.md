@@ -20,6 +20,6 @@ permalink: /research/
 
 <br>
 
-# Current Projects
+# Work in Progress
 
-- Redistricting, State Capacity and Development: Evidence from Brazilian Municipalities (with Christiane Szerman)
+- Administrative Unit Proliferation and Development: Evidence from Brazilian Municipalities (with Christiane Szerman)
