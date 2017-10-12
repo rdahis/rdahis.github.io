@@ -17,7 +17,7 @@ Below are links to materials that are useful in my research and maybe will be in
 
 <br>
 
-- Match for TSE and IBGE municipality identificators [[folder link](/data/Match TSE IBGE.zip)]
+- Match for TSE and IBGE municipality identificators [[folder link](/files/data/Match TSE IBGE.zip)]
   - This data set matches the identificators and names of Brazilian municipalities across the Tribunal Superior Eleitoral (TSE) and the Instituto Brasileiro de Geografia e Estatística (IBGE).
   - Covers years 1996 to 2012.
   - It also makes the match consistent across years.
@@ -27,7 +27,7 @@ Below are links to materials that are useful in my research and maybe will be in
   - Continuously under improvement. For corrections and suggestions, please just email me.
 
 <br>
-- Match for TSE and Congress federal deputy identificators [[folder link](/data/Match Author Candidate Year.zip)]
+- Match for TSE and Congress federal deputy identificators [[folder link](/files/data/Match Author Candidate Year.zip)]
   - This data set matches the names of federal deputies between the Tribunal Superior Eleitoral (TSE) and the Congress in Brazil. It also creates a unique id number and name for each person across years, covering 1998 to 2010.
   - Read the README for more information.
   - Continuously under improvement. For corrections and suggestions, please just email me.
