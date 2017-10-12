@@ -6,7 +6,7 @@ permalink: /resources-data/
 
 Below are links to materials that are useful in my research and maybe will be in yours too. My philosophy is that public goods must be made public.
 
-- Working Structure for Empirical Papers [[folder link](/data/main_paper.zip)]
+- [Working Structure for Empirical Papers](https://github.com/rdahis/main_paper)
   - This folder provides an all-encompassing working structure for empirical papers. It organizes every step of the process: merging and cleaning (several) data sets, performing analyses (tables, figures, regressions), writing the article itself and also presentations.
   - Customize to fit your project.
   - Particularly useful for work involving multiple coauthors and RAs.
