@@ -30,9 +30,14 @@ google_analytics: UA-106568021-1
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+
+# Extras
+mathjax: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
