@@ -5,9 +5,9 @@ date:   2018-01-16
 categories: essays
 ---
 
-When can one extrapolate claims, or _laws_, from experiments, or Randomized Control Trials (RCTs)?
+When can one extrapolate claims from experiments, or Randomized Control Trials (RCTs)?
 
-This question is an old hobby-horse in Medicine and Social Studies. It has been discussed within Economics by Manski (2008), Angrist & Pischke (2009) and many others. But interest about it surged particularly since Card & Krueger (1994) and the early 2000's with the foundation of institutions such as [J-PAL](https://www.povertyactionlab.org) and [IPA](https://www.poverty-action.org/). More recently, Augus Deaton and Nancy Cartwright have provided a [powerful critique](http://www.sciencedirect.com/science/article/pii/S0277953617307359?via%3Dihub) to the usefulness of RCTs (shorter version [here](http://voxeu.org/article/limitations-randomised-controlled-trials)).
+This question is an old hobby-horse in Medicine and Social Studies. It has been discussed within Economics by Manski (2008), Angrist & Pischke (2009) and many others. But interest about it surged particularly since Card & Krueger (1994) and the early 2000's with the inception of institutions such as [J-PAL](https://www.povertyactionlab.org) and [IPA](https://www.poverty-action.org/). More recently, Augus Deaton and Nancy Cartwright have provided a [powerful critique](http://www.sciencedirect.com/science/article/pii/S0277953617307359?via%3Dihub) to the usefulness of RCTs (shorter version [here](http://voxeu.org/article/limitations-randomised-controlled-trials)). [Vivalt (2017a)](http://evavivalt.com/wp-content/uploads/How-Much-Can-We-Generalize.pdf) undertakes an effective comparison of experiments in twenty broad areas of Development to assess how they generalize. On a related note, [Vivalt (2017b)](http://evavivalt.com/wp-content/uploads/Learning.pdf) and [Athey & Wager (2017)](https://arxiv.org/abs/1702.02896) study how much a policy maker can learn from experiments, and how to use that information to implement policy under certain constraints.
 
 Nevertheless, the academic debate about extrapolation has always seemed unnecessarily verbose to me. The conceptual framework behind it is in fact simple, and it could provide us a more synthetic way of pinning down the good and the bad about generalizing claims from experiments.
 
@@ -34,7 +34,7 @@ Moreover, the formulas make the following points explicit.
 : No surprises here. If _everything_ about two setups is equal, then the causal effects must be the same too.
 
 - **Causal effects are local**.
-: We only learn about $f$ at particular values of $X$, $C$ and $P$. Therefore, even for new setups with $C' = C$ and $P' = P$, without further assumptions, we know nothing about $f$ (and by construction about $CE$) at points other than $x$ (or \{$x_{0},x_{1}$\} for the discrete case).
+: We only learn about $f$ at particular values of $X$, $C$ and $P$. In particular, even for new setups with $C' = C$ and $P' = P$, without further assumptions, we know nothing about $f$ (and by construction about $CE$) at points other than $x$ (or \{$x_{0},x_{1}$\} for the discrete case).
 
 - **Different observed causal effects $CE$ and $CE'$ may be different for multiple reasons**.
 : Context $C$ and protocol $P$ are not fully observable. So one can hardly ever know what varying element in them generated the observed differences in causal effects. Were the effects of labor market training different because the two setups have different kinship systems? Or because people have different levels of noncognitive skills? Or something else? We'll likely never fully know.
