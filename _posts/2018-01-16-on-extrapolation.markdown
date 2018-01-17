@@ -3,6 +3,7 @@ layout: post
 title:  "On Extrapolation. Or 'A Little Formalization Goes a Long Way.'"
 date:   2018-01-16
 categories: essays
+tags: economics, statistics, science, RCT
 ---
 
 When can one extrapolate claims from experiments, or Randomized Control Trials (RCTs)?

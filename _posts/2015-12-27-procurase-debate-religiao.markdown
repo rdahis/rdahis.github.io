@@ -10,11 +10,11 @@ O debate público entre religião e secularismo no Brasil é praticamente inexis
 
 Como contexto básico, vamos a alguns dados sobre religião no Brasil. O primeiro gráfico abaixo traça uma evolução das principais religiões no país entre 2000 e 2010, de acordo com o Censo do IBGE. Incluído também está a porcentagem dos que se consideram ‘sem religião’. Ao menos quatro observações merecem comentário. Primeiro, o Brasil é (e sempre foi) um país predominantemente católico. Em 2010 a porcentagem de pessoas se designando católicos apostólicos romanos era de 64.5%. Segundo, houve um enorme crescimento do número de evangélicos (substituição de católicos), saindo de 26 milhões para 42 milhões de pessoas entre 2000 e 2010. Terceiro, a número de aderentes às outras religiões tradicionais – judaísmo, islamismo, espiritismo, etc – é mínimo. Quarto, o número de não-religiosos no país ainda não chega a 10% da população, apesar do crescimento entre 2000 e 2010.
 
-![](/data/figures/Evolucao-Religioes-Brasil-2000-e-2010.png)
+![](/files/data/figures/Evolucao-Religioes-Brasil-2000-e-2010.png)
 
 Além disso, de acordo com o segundo gráfico abaixo, entre os 14,6 milhões de não-religiosos em 2010, somente 5% se declaram ateus ou agnósticos. A pesquisa do IBGE é criticada nesse ponto – pois a diferenciação entre termos não é clara – mas mesmo assim esse é um percentual baixo.
 
-![](/data/figures/Sem-Religiao-Brasil-2010.png)
+![](/files/data/figures/Sem-Religiao-Brasil-2010.png)
 
 Uma primeira conclusão é imediata: o Brasil é um país altamente religioso. Não é surpresa então que o debate entre religião e secularismo seja pequeno. Pergunta para o leitor: a ausência de debate é causada por baixa demanda ou baixa oferta? Entretanto, além dos números estatísticos, há também inúmeros exemplos de influências religiosas na vida pública, na política e no sistema educacional. Bancada evangélica no Congresso, campanhas contra aborto, a favor da Cura Gay, diversos canais evangélicos na TV aberta, Marco Feliciano com 400 mil seguidores no Twitter, Garotinho, feriados católicos institucionalizados, Crivella, Pastor Everaldo, Jornada Mundial da Juventude, entre outros. Em 2015 o [Supremo Tribunal Federal discutiu o ensino religioso nas escolas públicas](http://oglobo.globo.com/sociedade/educacao/stf-debate-sobre-ensino-religioso-nas-escolas-publicas-16449494) e Feliciano propôs também o [ensino sobre criacionismo nas escolas](http://www2.camara.leg.br/camaranoticias/tv/materias/PALAVRA-ABERTA/490075-DEPUTADO-QUER-INCLUIR-ENSINO-DO-CRIACIONISMO-NAS-ESCOLAS.html).
 
