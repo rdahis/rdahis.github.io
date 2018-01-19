@@ -17,8 +17,11 @@ layout: default
       <h2>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </h2>
-      {{ post.content | markdownify | truncatewords:200 }}
     </li>
+    <div class="post-content">
+      {{ post.content | markdownify | truncatewords:250 }}
+    </div>
+    <br><br>
   {% endfor %}
 </ul>
 
