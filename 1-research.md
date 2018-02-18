@@ -6,6 +6,11 @@ permalink: /research/
 
 # Working Papers
 
+- Administrative Unit Proliferation and Development: Evidence from Brazilian Municipalities [[SSRN](https://ssrn.com/abstract=3125757){:target="_blank"}] (with Christiane Szerman)
+
+   <p style="text-align: justify;"> We exploit a period of proliferation of new administrative units in Brazil between 1988 and 2010, in which 1,146 municipalities were created (an increase of 35%), to investigate the short- and medium-term effects of secessions on socio-economic outcomes. We first argue that elite capture and fiscal incentives play an important role in secessions. Because the decision to secede is not random, we collect data on municipalities that had secession requests denied due to a Constitutional Amendment that curbed the formation of new municipalities after 1996 to create a control group for municipalities that seceded. Using past tract-level Census data to reconstruct outcomes for new boundaries, we find that secession is associated with better education, health, wealth, and public service outcomes. We document that the positive effects are mostly driven by new municipalities, while old municipalities present negligible changes. We show that increases in revenues do not fully explain our findings and we discuss further mechanisms, such as changes in state capacity, infrastructure, and migration. </p>
+
+<br>
 - The Fluidity of Race: “Passing” in the United States, 1880-1940 [[pdf](http://www.nber.org/papers/w20828){:target="_blank"}] (with Emily Nix and Nancy Qian), NBER Working Paper 20828
 
    <p style="text-align: justify;"> This paper quantifies the extent to which individuals experience changes in reported racial identity in the historical U.S. context. Using the full population of historical Censuses for 1880-1940, we document that over 19% of black males “passed” for white at some point during their lifetime, around 10% of whom later “reverse-passed” to being black; passing was accompanied by geographic relocation to communities with a higher percentage of whites and occurred the most in Northern states. The evidence suggests that passing was positively associated with better political-economic and social opportunities for whites relative to blacks. As such, endogenous race is likely to be a quantitatively important phenomenon. </p>
@@ -24,4 +29,4 @@ permalink: /research/
 
 # Work in Progress
 
-- Administrative Unit Proliferation and Development: Evidence from Brazilian Municipalities (with Christiane Szerman)
+- The Technology Frontier and the Rise and Fall of Cities (with Enrico Berkes and Marti Mestieri)
