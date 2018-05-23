@@ -29,4 +29,3 @@ permalink: /research/
 
 # Work in Progress
 
-- **The Technology Frontier and the Rise and Fall of Cities** (with Enrico Berkes and Marti Mestieri)
