@@ -99,7 +99,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.5.2)
-  jekyll-feed (~> 0.6)
+  jekyll-feed
   minima (~> 2.0)
   minimal-mistakes-jekyll
   tzinfo-data
