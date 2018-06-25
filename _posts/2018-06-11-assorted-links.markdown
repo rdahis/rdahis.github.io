@@ -2,8 +2,8 @@
 layout: post
 title:  "Assorted Links"
 date:   2018-06-11
-categories:
-tags:
+categories: recommended
+tags: evergreen, food, buddhism, islam, hayek
 ---
 
 Some assorted links, from all over the place!
