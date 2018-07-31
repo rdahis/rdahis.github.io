@@ -13,6 +13,7 @@ Primeiro, aqui vai o link de sua entrevista ao Roda-Viva de 2018-07-30.
 
 <br>
 
+#### __A visão de um Bolsonarista__
 É preciso entender a visão de mundo de eleitores do Bolsonaro para que possamos ser mais efetivos no diálogo e no convencimento. Senão ficamos só falando uns  através dos outros e só aumentaremos a polarização.
 - É preciso defender os valores da civilização judaico-cristã, da ordem, da família, da tradição, das pessoas de bem.
 - Ataques a esses valores: comunistas/“esquerdopatas", pós-modernistas, politicamente correto, muçulmanos/terroristas, globalistas, ONU, ambientalistas, PT/PSOL/PC do B, bandidos/“vagabundos”, drogas, direitos humanos, ideologia de gênero, políticas de identidade, políticas afirmativas, cotas, establishment político engessado e corrupto, George Soros, Obama/Hillary/Sanders/Democratas, Foro de São Paulo, etc.
@@ -26,27 +27,25 @@ Primeiro, aqui vai o link de sua entrevista ao Roda-Viva de 2018-07-30.
 
 <br>
 
-*Mídia caindo em armadilha*
+#### __Mídia caindo em armadilha__
 A mídia brasileira está caindo na mesma armadilha na qual caiu a americana. Atacam Bolsonaro no campo moral, sobre suas declarações machistas/misóginas/homofóbicas, tentando colar nele esses rótulos de linchamento moral, achando que isso o destruirá. Usam episódios pequenos como prova de acusações morais enormes. Porém pouco entendem que eleitor de Bolsonaro (1) não o considera machista, misógino, homofóbico, (2) vê nisso um ataque à civilização judaico-cristã, (3) enxerga isso como mi-mi-mi, (4) quer que o establishment pegue fogo.
 
 <br>
 
-*Estratégias (talvez) eficazes para debater Bolsonaro:*
+#### __Estratégias (talvez) eficazes para debater Bolsonaro:__
 - Demonstrar seu despreparo em qualquer área de governo, inclusive nas quais se diz especialista (segurança, costumes). (Por mais que seus eleitores não queiram na imagem dele como presidente alguém que sabe de tudo. Não é pra isso que os serve um presidente. Especialistas serão seus ministros, sua equipe. Querem uma figura pública não-apologética que defenda publicamente valores que concordam)
 - Demonstrar a falácia do espantalho criada que qualquer alternativa a Bolsonaro é comunismo, globalismo, proteger bandidos, etc. Desconstruir essa imagem dele de único salvador do caos a espreita.
 - Falar sobre as agendas mais caras aos eleitores: segurança nacional, economia ruim, costumes, etc.
 
 <br>
 
-Eleitores do Bolsonaro são mobilizados, ativos, sem mais vergonha de enaltecer suas visões.
-
-<br>
-
+#### __Roda-Viva com pesquisa de opinião__
 Pesquisa que o Roda Viva deveria fazer com seus expectadores, antes de começar o programa.
 Qual probabilidade de você mudar seu voto ao assistir esse programa?
 Muitos dos comentários ao programa me parecem vir de pessoas que não mudariam de opinião, nem pra um lado nem pro outro. É só ataques e defesas, mas pouca interlocução.
 
 <br>
 
-Uma das melhores análises que vi até agora, do Joel.
+#### __Análise do Joel__
+Uma das melhores análises que vi até agora, do Joel da Fonseca.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4emuRhZI55o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
