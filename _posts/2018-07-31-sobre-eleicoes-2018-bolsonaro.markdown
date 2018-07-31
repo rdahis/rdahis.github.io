@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sobre Bolsonaro, Roda Viva, Eleições 2018 e afins."
-date:   2018-06-11
+date:   2018-07-31
 categories: essay
 tags: brazil, election 2018, Bolsonaro
 ---
