@@ -13,4 +13,6 @@ Ideias básicas.
 - Transição suave em 10 anos.
 - Fim dos regimes tributários simplificados (SIMPLES, MEI, etc.)
 
-Bernard Appy e o [Centro de Cidadania Fiscal](https://www.ccif.com.br/) estão no caminho certo. Leiam a proposta!
+Bernard Appy e o [Centro de Cidadania Fiscal](https://www.ccif.com.br/) estão no caminho certo. Neste [link](https://www.insper.edu.br/agenda-de-eventos/reforma-tributaria-e-produtividade-no-brasil/) uma apresentação no INSPER em Nov/2017 que cobre os principais pontos e vai mais devagar pra dar tempo de digerir tudo.
+
+Leiam a proposta!
