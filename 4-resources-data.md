@@ -17,12 +17,9 @@ Below are links to materials that are useful in my research and maybe will be in
 
 <br>
 
-- Match for TSE and IBGE municipality identificators [[folder link](/files/data/Match TSE IBGE.zip)]
-  - This data set matches the identificators and names of Brazilian municipalities across the Tribunal Superior Eleitoral (TSE) and the Instituto Brasileiro de Geografia e Estatística (IBGE).
-  - Covers years 1996 to 2012.
-  - It also makes the match consistent across years.
-  - TSE and IBGE ids and name strings change across years.
-  - Municipalities are created or cease to exist across years.
+- Match for TSE and IBGE municipality identificators [[folder link](/files/data/brazil_municipalities.zip)]
+  - This data set matches identificators and names of Brazilian municipalities across various Brazilian institutions (IBGE, TSE, STN, and Comarcas).
+  - It tracks what municipalities existed in 1991, 2000, 2010, and currently.
   - Read the README for more information.
   - Continuously under improvement. For corrections and suggestions, please just email me.
 
