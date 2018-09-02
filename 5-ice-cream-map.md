@@ -4,7 +4,9 @@ title: Ice Cream Map
 permalink: /ice-cream-map/
 ---
 
-_Money can't buy happinness. But it can buy ice cream, which is almost the same thing._
+**_Money can't buy happinness. But it can buy ice cream, which is almost the same thing._**
+
+Mapping and reviewing ice cream spots worldwide, one at a time.
 
 <br>
 
