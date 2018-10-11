@@ -8,6 +8,8 @@ permalink: /research/
 
 - **Administrative Unit Proliferation and Development: Evidence from Brazilian Municipalities** [[SSRN](https://ssrn.com/abstract=3125757){:target="_blank"}] (with Christiane Szerman)
 
+    Recipient of the _Susan Schmidt Bies Prize for Doctoral Student Research on Economics and Public Policy, 2018_
+
    <p style="text-align: justify;"> We exploit a period of proliferation of new administrative units in Brazil between 1988 and 2010, in which 1,146 municipalities were created (an increase of 35%), to investigate the short- and medium-term effects of secessions on socio-economic outcomes. We first argue that elite capture and fiscal incentives play an important role in secessions. Because the decision to secede is not random, we collect data on municipalities that had secession requests denied due to a Constitutional Amendment that curbed the formation of new municipalities after 1996 to create a control group for municipalities that seceded. Using past tract-level Census data to reconstruct outcomes for new boundaries, we find that secession is associated with better education, health, wealth, and public service outcomes. We document that the positive effects are mostly driven by new municipalities, while old municipalities present negligible changes. We show that increases in revenues do not fully explain our findings and we discuss further mechanisms, such as changes in state capacity, infrastructure, and migration. </p>
 
 <br>
