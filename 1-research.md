@@ -31,3 +31,6 @@ permalink: /research/
 
 # Work in Progress
 
+- **When Do Politicians Matter? Discretion and Monitoring in the Brazilian Amazon** (with Arthur Bragança)
+
+- **Selection and Productivity of Judges in Brazil** (with Laura Schiavon and Thiago Scot)
