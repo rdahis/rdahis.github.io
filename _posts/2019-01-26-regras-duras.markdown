@@ -6,7 +6,7 @@ categories: essay
 tags: 
 ---
 
-Não sou psicólogo, nem neurocientista, mas tenho pensado um tanto sobre vícios, intencionalidade, bem-estar e progresso social. Quero compartilhar alguns insights e lições de vida recentes que tem me ajudado a fazer progresso rápido. Compreender algo racionalmente, com os termos certos, pode também acelerar muito a compreensão emocional.
+Não sou psicólogo, nem neurocientista, mas tenho pensado um tanto sobre vícios, intencionalidade, bem-estar e progresso social. Quero compartilhar alguns insights e lições de vida recentes que tem me ajudado a fazer progresso rápido. Entender algo racionalmente, com os termos certos, pode também acelerar muito a compreensão emocional permitir ações concretas.
 
 Como humanos, temos um conjunto de ações possíveis a cada momento. Algumas são positivas para nosso bem-estar, ou o de pessoas ao nosso redor, e outras são negativas. Agora, por exemplo, eu posso ir à academia, posso assistir TV, posso usar o celular, posso comer algo, posso berrar por aí e ser agressivo, posso meditar, etc. Sem entrar na discussão filosófica sobre qual bem-estar importa mais, o presente ou o futuro, todos sabemos que há ações que gostaríamos de fazer mais -- o que chamo de ações _a-fazer-mais_, ou _injunções positivas_ (academia, meditar, etc.) -- e outras menos -- o que chamo de ações _a-fazer-menos_, ou _injunções negativas_ (comer não-saudável, comprar bens com embalagens descartáveis, se masturbar, usar redes sociais, usar drogas, etc.).
 
