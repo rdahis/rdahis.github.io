@@ -6,7 +6,7 @@ permalink: /research/
 
 # Working Papers
 
-- **Administrative Unit Proliferation and Development: Evidence from Brazilian Municipalities** [[SSRN](https://ssrn.com/abstract=3125757){:target="_blank"}] (with Christiane Szerman)
+- **Voluntary Secessions and Development: Evidence from Brazilian Municipalities** [[SSRN](https://ssrn.com/abstract=3125757){:target="_blank"}] (with [Christiane Szerman](https://scholar.princeton.edu/cszerman/bio){:target="_blank"})
 
     Recipient of the _Susan Schmidt Bies Prize for Doctoral Student Research on Economics and Public Policy, 2018_
 
@@ -31,7 +31,7 @@ permalink: /research/
 
 # Work in Progress
 
-- **When Do Politicians Matter? Discretion and Monitoring in the Brazilian Amazon** (with [Arthur Bragança]{https://arthurbraganca.com/}{:target="_blank"})
+- **The Political Consequences of Policy: Evidence from the Brazilian Amazon** (with [Arthur Bragança](https://arthurbraganca.com/){:target="_blank"})
 
 - **Selection and Productivity of Judges in Brazil** (with Laura Schiavon and Thiago Scot)
 
