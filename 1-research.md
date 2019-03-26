@@ -26,7 +26,7 @@ permalink: /research/
 
 # Work in Progress
 
-- **The Political Consequences of Policy: Evidence from the Brazilian Amazon** (with [Arthur Bragança](https://arthurbraganca.com/){:target="_blank"})
+- **Local Politics Under Centralized Enforcement: Evidence from the Brazilian Amazon** (with [Arthur Bragança](https://arthurbraganca.com/){:target="_blank"})
 
 - **Selection and Productivity of Judges in Brazil** (with Laura Schiavon and Thiago Scot)
 
