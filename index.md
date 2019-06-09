@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="./files/pictures/profile3.jpg" alt="profile" style="width: 320px;" align="right"  />
+<img src="./files/pictures/profile4.jpg" alt="profile" style="width: 300px;" align="right"  />
 
 I am a 4th year PhD candidate in Economics at Northwestern University. Here is my [CV](/files/CV - Ricardo Dahis.pdf){:target="_blank"} and [SSRN](https://ssrn.com/author=2786164){:target="_blank"}.
 
