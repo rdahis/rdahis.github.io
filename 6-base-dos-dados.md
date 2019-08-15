@@ -4,8 +4,6 @@ title: Base dos Dados (Beta)
 permalink: /base-dos-dados/
 ---
 
-
-<!DOCTYPE html>
 <html>
 <head>
 <title>Google Sheets API Quickstart</title>
