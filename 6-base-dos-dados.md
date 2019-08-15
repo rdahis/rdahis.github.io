@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Base dos Dados (Beta)
 permalink: /base-dos-dados/
 ---
