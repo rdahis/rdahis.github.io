@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Base dos Dados (Beta)
 permalink: /base-dos-dados/
 ---
