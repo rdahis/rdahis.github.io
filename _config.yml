@@ -27,7 +27,8 @@ stackoverflow_username: ricardo-dahis
 
 # Google Analytics
 google_analytics: UA-106568021-1
-google-site-verification: googlea16a53407b969f57.html
+google-site-verification: googlea16a53407b969f57
+google_verify: s21mnml2r967s01ra1kfatl4652ccrs5
 
 # Build settings
 markdown: kramdown
