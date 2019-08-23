@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: /base-dos-dados/
 ---
 
