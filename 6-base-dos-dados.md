@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /ice-cream-map/
+---
 
 <!DOCTYPE html>
 <html>
