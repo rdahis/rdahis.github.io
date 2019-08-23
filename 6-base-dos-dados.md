@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ice-cream-map/
+permalink: /base-dos-dados/
 ---
 
 <!DOCTYPE html>
