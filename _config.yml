@@ -18,7 +18,7 @@ email: rdahis@u.northwestern.edu
 description: > # this means to ignore newlines until "baseurl:"
   Writing and Research
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.ricardodahis.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.ricardodahis.com"
 twitter_username: rdahis
 facebook_username: ricardodahis
 github_username:  rdahis
@@ -27,8 +27,6 @@ stackoverflow_username: ricardo-dahis
 
 # Google Analytics
 google_analytics: UA-106568021-1
-google-site-verification: googlea16a53407b969f57
-google_verify: s21mnml2r967s01ra1kfatl4652ccrs5
 
 # Build settings
 markdown: kramdown

@@ -1,4 +1,5 @@
 ---
+layout: clean
 permalink: /base-dos-dados/
 ---
 
