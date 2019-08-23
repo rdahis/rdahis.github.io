@@ -1,5 +1,5 @@
 ---
-layout: clean
+layout: default
 permalink: /base-dos-dados/
 ---
 
