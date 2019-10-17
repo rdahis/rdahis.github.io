@@ -13,6 +13,11 @@ permalink: /research/
    <p style="text-align: justify;"> We exploit a period of proliferation of new administrative units in Brazil between 1988 and 2010, in which 1,146 municipalities were created (an increase of 35%), to investigate the short- and medium-term effects of secessions on socio-economic outcomes. We first argue that elite capture and fiscal incentives play an important role in secessions. Because the decision to secede is not random, we collect data on municipalities that had secession requests denied due to a Constitutional Amendment that curbed the formation of new municipalities after 1996 to create a control group for municipalities that seceded. Using past tract-level Census data to reconstruct outcomes for new boundaries, we find that secession is associated with better education, health, wealth, and public service outcomes. We document that the positive effects are mostly driven by new municipalities, while old municipalities present negligible changes. We show that increases in revenues do not fully explain our findings and we discuss further mechanisms, such as changes in state capacity, infrastructure, and migration. </p>
 
 <br>
+- **Politics, Monitoring and Deforestation in the Amazon** (with [Arthur Bragança](https://arthurbraganca.com/){:target="_blank"})
+
+   <p style="text-align: justify;"> Decentralized governments typically rely on local politicians to implement poli- cies designed at the national level. In order to avoid obstruction, the government may align incentives directly, with monitoring and punishment, or indirectly, by altering the electoral incentives politicians are subject to. This paper studies how a new policy, which synced real-time satellite deforestation data with enforcement on the ground, affected the behavior of mayors connected to farming by making pro-agriculture ac- tions less profitable electorally. To do so, we assemble a comprehensive data set cover- ing six electoral terms and implement a close-elections Regression-Discontinuity de- sign. Our results show that, before the reform, municipalities governed by farmer mayors earmarked more resources to subsidize agriculture and had higher deforesta- tion rates. However, after the reform, these differences disappear. We provide sugges- tive evidence that the policy affected political entry, by making running for office less attractive for farmer candidates. Our findings indicate that the decline of the politi- cal influence of interest groups representing agriculture was an important mechanism through which the increases in the enforcement of the environmental legislation re- duced deforestation. </p>
+
+<br>
 - **Changing Racial Identity in the United States, 1880-1940** [[pdf](http://www.nber.org/papers/w20828){:target="_blank"}] (with [Emily Nix](https://sites.google.com/site/emilyenix/){:target="_blank"} and [Nancy Qian](https://www.kellogg.northwestern.edu/faculty/qian/){:target="_blank"}), NBER Working Paper 20828
 
    <p style="text-align: justify;"> This paper investigates the extent to which racial identity can change within a person’s lifetime and to which it is associated with socio-economic incentives. In the context of pre-Civil Rights United States, 1880-1940, we document that at least 300,000 black males experienced a change in racial classification to become white. In contrast, white men rarely re-classified as black. Black men who were childless and living in places with more discrimination and fewer opportunities for higher education were more likely to change racial classification. After changing race, these men were more likely to be married to a white woman, move to a community with more white residents, obtain higher income and have more opportunities for higher education. </p>
@@ -25,8 +30,6 @@ permalink: /research/
 <br>
 
 # Work in Progress
-
-- **Local Politics Under Centralized Enforcement: Evidence from the Brazilian Amazon** (with [Arthur Bragança](https://arthurbraganca.com/){:target="_blank"})
 
 - **Selection and Productivity of Judges in Brazil** (with Laura Schiavon and Thiago Scot)
 
