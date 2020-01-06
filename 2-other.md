@@ -4,6 +4,18 @@ title: Other
 permalink: /other/
 ---
 
+## Template for Empirical Papers
+
+This [folder](https://github.com/rdahis/main_paper){:target="_blank"} provides an all-encompassing working structure for empirical papers. It organizes every step of the process: merging and cleaning (several) data sets, performing analyses (tables, figures, regressions), writing the article itself and also presentations.
+
+- Customize to fit your project.
+- Particularly useful for work involving multiple coauthors and RAs.
+- Principles: functional folder structure, modularity and automation.
+- Read the README file for more information.
+- Continuously under improvement. Suggestions are welcome, please just email me.
+
+<br>
+
 ## Philosophy
 
 Some writing on science, epistemology and randomness.
@@ -18,12 +30,11 @@ Some writing on science, epistemology and randomness.
 
 <br>
 
-## Template for Empirical Papers
+## Ice Cream Map
 
-This [folder](https://github.com/rdahis/main_paper){:target="_blank"} provides an all-encompassing working structure for empirical papers. It organizes every step of the process: merging and cleaning (several) data sets, performing analyses (tables, figures, regressions), writing the article itself and also presentations.
+Mapping and reviewing ice cream spots worldwide, one at a time.
 
-- Customize to fit your project.
-- Particularly useful for work involving multiple coauthors and RAs.
-- Principles: functional folder structure, modularity and automation.
-- Read the README file for more information.
-- Continuously under improvement. Suggestions are welcome, please just email me.
+_Money can't buy happinness. But it can buy ice cream, which is almost the same thing._
+
+<br>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1p4BP4juwU4Jlq3GjpcGG50a5ZL_r_hVy" width="800" height="720"></iframe>
