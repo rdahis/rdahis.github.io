@@ -16,6 +16,14 @@ This [folder](https://github.com/rdahis/main_paper){:target="_blank"} provides a
 
 <br>
 
+## Cleaning the Relação Anual de Informações Sociais (RAIS) dataset in Stata, 1985-2018
+
+This [repository](https://github.com/rdahis/clean_RAIS){:target="_blank"} provides code and tips to clean the Brazilian matched employer-employee dataset.
+
+- Read the README file for more information.
+
+<br>
+
 ## Philosophy
 
 Some writing on science, epistemology and randomness.
