@@ -25,17 +25,17 @@ permalink: /research/
    <p style="text-align: justify;"> This paper documents that many black males experienced a change in racial classification to white in the United States, 1880–1940, while changes in racial classification were negligible for other races. We provide a rich set of descriptive evidence on the lives of black men "passing" for white, such as their patterns of marriage, children, the passing of spouses and children, migration and income. </p>
 
 <br>
-- **Choosing Institutions Locally: Determinants of Legislative Size in Brazil** (available upon request)
-
-   <p style="text-align: justify;"> How are institutions determined? This paper studies how legislators locally choose an important dimension of local electoral systems, namely legislative size. To achieve this end, I construct a novel data set comprised of seat proposals and individual legislators’ votes to increase or not legislative size during the pre-2012 election period for a sample of municipalities in Brazil. I then outline and estimate a structural discrete choice model of legislative vote, in which legislators play a strategic game and also decide whether to run for reelection or not. I find that legislators weigh on average approximately 34% reelection payoffs and 66% social welfare when choosing seats. With these results, I run some counterfactual analyses varying the population caps’ function that federal government chooses. </p>
-
-<br>
 
 # Work in Progress
 
 - **Selection and Productivity of Judges in Brazil** (with Laura Schiavon and Thiago Scot)
 
    <p style="text-align: justify;"> The recruitment of public sector workers often differs markedly from that of the private sector. In large developing countries like China, India and Brazil, the majority of civil servants are selected through competitive examinations, leaving little to no discretion for managers to influence hiring. This paper studies the selection of highly prestigious and influential civil servants in Brazil, state judges, and provide evidence that admission examination grades are predictive about performance on the job. We first explore rich data on judges’ monthly output and leverage the movement of judges between courts to separately identify judges’ and courts’ contribution in explaining observed variation in case disposition, an important indicator of judicial performance. We estimate that judges explain at least 20% of the observed variation in the data. We then show that, within cohorts of candidates taking the same exam, those with higher grades are more productive than their lower-ranked peers. Our results suggest that competitive examinations can be an efficient way to screen candidates, even among highly qualified contenders. </p>
+
+<br>
+- **Choosing Institutions Locally: Determinants of Legislative Size in Brazil** (available upon request)
+
+   <p style="text-align: justify;"> How are institutions determined? This paper studies how legislators locally choose an important dimension of local electoral systems, namely legislative size. To achieve this end, I construct a novel data set comprised of seat proposals and individual legislators’ votes to increase or not legislative size during the pre-2012 election period for a sample of municipalities in Brazil. I then outline and estimate a structural discrete choice model of legislative vote, in which legislators play a strategic game and also decide whether to run for reelection or not. I find that legislators weigh on average approximately 34% reelection payoffs and 66% social welfare when choosing seats. With these results, I run some counterfactual analyses varying the population caps’ function that federal government chooses. </p>
 
 <br>
 
