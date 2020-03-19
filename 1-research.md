@@ -33,9 +33,14 @@ permalink: /research/
 
 # Work in Progress
 
+- **Selection and Productivity of Judges in Brazil** (with Laura Schiavon and Thiago Scot)
+
+   <p style="text-align: justify;"> The recruitment of public sector workers often differs markedly from that of the private sector. In large developing countries like China, India and Brazil, the majority of civil servants are selected through competitive examinations, leaving little to no discretion for managers to influence hiring. This paper studies the selection of highly prestigious and influential civil servants in Brazil, state judges, and provide evidence that admission examination grades are predictive about performance on the job. We first explore rich data on judges’ monthly output and leverage the movement of judges between courts to separately identify judges’ and courts’ contribution in explaining observed variation in case disposition, an important indicator of judicial performance. We estimate that judges explain at least 20% of the observed variation in the data. We then show that, within cohorts of candidates taking the same exam, those with higher grades are more productive than their lower-ranked peers. Our results suggest that competitive examinations can be an efficient way to screen candidates, even among highly qualified contenders. </p>
+
+<br>
+
 - **Genocide and the Demand for Formal Institutions: Evidence from the Legacy of the Khmer Rouge** (with Joris Mueller)
 
    <p style="text-align: justify;"> The Cambodian genocide under the Khmer Rouge regime is remembered as one of the worst human tragedies of the 20th century. This paper examines the social and institutional legacies of this violent episode. We document that spatially more intense violence committed by the Khmer Rouge, proxied by exogenous adverse rainfall shocks during 1975–1977, is associated with a higher fraction of land covered by government-backed land titles in Cambodia today. We provide micro-level empirical evidence that social capital may play a role in explaining this result: Communities that experienced more violence had more of their social capital destroyed, increasing the demand for formal titles. We conclude that social capital may serve as a substitute for formal institutions in a context of weak state capacity. We complement our analysis by discussing several alternative mechanisms. </p>
 
-<br>
-- **Selection and Productivity of Judges in Brazil** (with Laura Schiavon and Thiago Scot)
+
