@@ -38,6 +38,15 @@ Some writing on science, epistemology and randomness.
 
 <br>
 
+## Op-Eds
+
+- [Goes & Dahis (Folha de São Paulo, 2020) Como salvar empregos para o Brasil pós-coronavírus](https://www1.folha.uol.com.br/mercado/2020/03/como-salvar-empregos-para-o-brasil-pos-coronavirus.shtml)
+
+- [Dahis (Nexo, 2016) Educação, o Útil, o Divertido e o Inútil](https://www.nexojornal.com.br/ensaio/2016/Educa%C3%A7%C3%A3o-o-%C3%BAtil-o-divertido-e-o-in%C3%BAtil)
+
+<br>
+
+
 ## Ice Cream Map
 
 Mapping and reviewing ice cream spots worldwide, one at a time.
