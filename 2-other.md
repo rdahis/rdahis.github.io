@@ -38,7 +38,9 @@ Some writing on science, epistemology and randomness.
 
 <br>
 
-## Op-Eds
+## Op-Eds and Press
+
+- [CNN Brasil (2020) Quarentena intensiva traria benefício de R$ 298 bi por mês ao país, diz pesquisa](https://www.cnnbrasil.com.br/nacional/2020/04/22/quarentena-intensiva-traria-beneficio-de-r-298-bi-por-mes-ao-pais-diz-pesquisa)
 
 - [Goes & Dahis (Folha de São Paulo, 2020) Como salvar empregos para o Brasil pós-coronavírus](https://www1.folha.uol.com.br/mercado/2020/03/como-salvar-empregos-para-o-brasil-pos-coronavirus.shtml)
 
