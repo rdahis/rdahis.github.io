@@ -38,11 +38,13 @@ Some writing on science, epistemology and randomness.
 
 <br>
 
-## Op-Eds and Press
+## Op-Eds, Podcasts and Press
 
 - [CNN Brasil (2020) Quarentena intensiva traria benefício de R$ 298 bi por mês ao país, diz pesquisa](https://www.cnnbrasil.com.br/nacional/2020/04/22/quarentena-intensiva-traria-beneficio-de-r-298-bi-por-mes-ao-pais-diz-pesquisa)
 
 - [Goes & Dahis (Folha de São Paulo, 2020) Como salvar empregos para o Brasil pós-coronavírus](https://www1.folha.uol.com.br/mercado/2020/03/como-salvar-empregos-para-o-brasil-pos-coronavirus.shtml)
+
+- [Dahis (Ressonâncias Podcast, 2019) PhD em Economia nos EUA](https://open.spotify.com/episode/1rhl7RCedUeninvjYfrKYH?si=wiR17Hk9RJGez6a3Z4jrFQ)
 
 - [Dahis (Nexo, 2016) Educação, o Útil, o Divertido e o Inútil](https://www.nexojornal.com.br/ensaio/2016/Educa%C3%A7%C3%A3o-o-%C3%BAtil-o-divertido-e-o-in%C3%BAtil)
 
