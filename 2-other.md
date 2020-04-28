@@ -38,7 +38,7 @@ Some writing on science, epistemology and randomness.
 
 <br>
 
-## Op-Eds, Podcasts and Press
+## Op-Eds, Press, and Podcasts
 
 - [CNN Brasil (2020) Quarentena intensiva traria benefício de R$ 298 bi por mês ao país, diz pesquisa](https://www.cnnbrasil.com.br/nacional/2020/04/22/quarentena-intensiva-traria-beneficio-de-r-298-bi-por-mes-ao-pais-diz-pesquisa)
 
