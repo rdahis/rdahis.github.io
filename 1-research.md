@@ -6,6 +6,11 @@ permalink: /research/
 
 # Working Papers
 
+- **Value of a Statistical Life Under Large Mortality Risk Change: Theory and an Application to COVID-19** [[SSRN](https://papers.ssrn.com/abstract=3599529){:target="_blank"}] (with [Diego S. Cardoso](https://sites.google.com/view/diegocardoso/){:target="_blank"})
+
+    <p style="text-align: justify;"> Benefit analyses of mortality reduction policies typically use multiples of the value of a statistical life (VSL). This approach approximates risk premia for small changes in mortality, but inaccurately estimates premia for large risk changes because it implies increasing marginal utility and a risk-loving attitude. We propose a simple method to calculate the benefit of large mortality reductions adjusting for risk aversion. We apply this method to calculate the benefits of social distancing and other mitigation strategies to combat COVID-19 in the US and 42 other countries. Our findings show that the traditional approach may underestimate the benefits of social distancing in the U.S. by a factor of 4, and by a factor of 2, on average, for other countries. </p>
+
+<br>
 - **Voluntary Secessions and Development: Evidence from Brazilian Municipalities** [[SSRN](https://ssrn.com/abstract=3125757){:target="_blank"}] (with [Christiane Szerman](https://scholar.princeton.edu/cszerman/bio){:target="_blank"})
 
     Recipient of the _Susan Schmidt Bies Prize for Doctoral Student Research on Economics and Public Policy, 2018_
