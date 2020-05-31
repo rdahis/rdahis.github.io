@@ -30,7 +30,7 @@ Some writing on science, epistemology and randomness.
 
 - **The Belief Cloud: Framework and Applications** [[pdf](/files/papers/Dahis_BC.pdf){:target="_blank"}]
    
-   <p style="text-align: justify;"> This essay introduces the concept of a _belief cloud_ and discusses its various applications in communication, policy making, business, and science. </p>
+   <p style="text-align: justify;"> This essay introduces the concept of a belief cloud, makes various points around it, and discusses its various applications to communication, policy making, business, and science. </p>
    
 - **On Randomness and Probability** [[pdf](/files/papers/randomness_probability.pdf){:target="_blank"}]
 
