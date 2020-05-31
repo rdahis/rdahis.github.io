@@ -29,10 +29,12 @@ This [repository](https://github.com/rdahis/clean_RAIS){:target="_blank"} provid
 Some writing on science, epistemology and randomness.
 
 - **The Belief Cloud: Framework and Applications** [[pdf](/files/papers/Dahis_BC.pdf){:target="_blank"}]
-
+   
+   <p style="text-align: justify;"> This essay introduces the concept of a _belief cloud_ and discusses its various applications in communication, policy making, business, and science. </p>
+   
 - **On Randomness and Probability** [[pdf](/files/papers/randomness_probability.pdf){:target="_blank"}]
 
-<p style="text-align: justify;"> This essay provides coherent definitions of two bedrock concepts in philosophy and statistics: randomness and probability. When constructing the first, I define repeatability, the measurement set, and distinguish between frequency vs. value prediction. The definition of randomness proposed, namely of a random variable not being perfectly value-predictable for any given information set, is stronger than those commonly used in the literature. Second, after defining probability as a theory about a variable's potential frequency distribution, I argue that the dichotomy between frequentist and bayesian interpretations is illusory. I conclude with remarks about knowledge and determinism.  </p>
+   <p style="text-align: justify;"> This essay provides coherent definitions of two bedrock concepts in philosophy and statistics: randomness and probability. When constructing the first, I define repeatability, the measurement set, and distinguish between frequency vs. value prediction. The definition of randomness proposed, namely of a random variable not being perfectly value-predictable for any given information set, is stronger than those commonly used in the literature. Second, after defining probability as a theory about a variable's potential frequency distribution, I argue that the dichotomy between frequentist and bayesian interpretations is illusory. I conclude with remarks about knowledge and determinism. </p>
 
 - **Is Economics a Science? Not Yet.** [[SSRN](http://ssrn.com/abstract=3036961){:target="_blank"}]
 
