@@ -29,7 +29,7 @@ permalink: /research/
 <br>
 - **Changing Racial Identity in the United States, 1880-1940**. June 2020 [[PDF](/files/papers/DNQ_2020_0608_FINAL.pdf){:target="_blank"}] [[NBER Working Paper w26465](https://www.nber.org/papers/w26465){:target="_blank"}] (with [Emily Nix](https://sites.google.com/site/emilyenix/){:target="_blank"} and [Nancy Qian](https://www.kellogg.northwestern.edu/faculty/qian/){:target="_blank"}) _Submitted_
 
-   <p style="text-align: justify;"> This paper documents that many black males experienced a change in racial classification to white in the United States, 1880–1940, while changes in racial classification were negligible for other races. We provide a rich set of descriptive evidence on the lives of black men "passing" for white, such as their patterns of marriage, children, the passing of spouses and children, migration and income. </p>
+   <p style="text-align: justify;"> This paper documents that a large number of African American men experienced a change in racial identity to white during 1880 to 1940, while analogous changes were negligible for other races. We provide descriptive evidence that is consistent with the conventional wisdom that “passing” for white was a response to severe discrimination, and came at great personal cost. The findings suggest that contrary to traditional economic thinking, racial identity is neither entirely exogenous nor fixed over the lifetime, and responds to incentives. </p>
 
 <br>
 - **The Political Effects of Policy: Evidence from the Brazilian Amazon**. New version coming soon! (with [Arthur Bragança](https://arthurbraganca.com/){:target="_blank"})
