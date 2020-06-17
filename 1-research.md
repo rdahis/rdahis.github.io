@@ -13,7 +13,7 @@ permalink: /research/
     <p style="text-align: justify;"> Benefit analyses of mortality reduction policies typically use multiples of the value of a statistical life (VSL). This approach approximates risk premia for small changes in mortality, but inaccurately characterizes premia for large risk changes because it implies increasing marginal utility and a risk-loving attitude. We propose a method to calculate the benefits of large mortality reductions adjusting for risk aversion. We apply this method to calculate the benefits of social distancing and other mitigation strategies to combat COVID-19 in the US and 42 other countries. Our findings show that the typical approach underestimates the benefits of social distancing in the US by a factor of 4.1 and in other countries by a factor of 2.2 on average. </p>
 
 <br>
-- **Voluntary Secessions and Development: Evidence from Brazilian Municipalities**. February 2018 [[SSRN](https://ssrn.com/abstract=3125757){:target="_blank"}] (with [Christiane Szerman](https://scholar.princeton.edu/cszerman/bio){:target="_blank"})
+- **Voluntary Secessions and Development: Evidence from Brazilian Municipalities**. (Job Market Paper) New version coming soon! [[SSRN](https://ssrn.com/abstract=3125757){:target="_blank"}] (with [Christiane Szerman](https://scholar.princeton.edu/cszerman/bio){:target="_blank"})
 
     Recipient of the _Susan Schmidt Bies Prize for Doctoral Student Research on Economics and Public Policy, 2018_
     
