@@ -6,20 +6,20 @@ permalink: /research/
 
 # Working Papers
 
-- **Value of a Statistical Life Under Large Mortality Risk Change: Theory and an Application to COVID-19**. May 2020 [[SSRN](https://papers.ssrn.com/abstract=3599529){:target="_blank"}] (with [Diego S. Cardoso](https://sites.google.com/view/diegocardoso/){:target="_blank"})
-    
-    Coverage: [CNN Brasil](https://www.cnnbrasil.com.br/nacional/2020/04/22/quarentena-intensiva-traria-beneficio-de-r-298-bi-por-mes-ao-pais-diz-pesquisa){:target="_blank"}, [Instituto Mercado Popular](https://mercadopopular.org/economia/os-beneficios-economicos-do-distanciamento-social/){:target="_blank"}
-    
-    <p style="text-align: justify;"> Benefit analyses of mortality reduction policies typically use multiples of the value of a statistical life (VSL). This approach approximates risk premia for small changes in mortality, but inaccurately characterizes premia for large risk changes because it implies increasing marginal utility and a risk-loving attitude. We propose a method to calculate the benefits of large mortality reductions adjusting for risk aversion. We apply this method to calculate the benefits of social distancing and other mitigation strategies to combat COVID-19 in the US and 42 other countries. Our findings show that the typical approach underestimates the benefits of social distancing in the US by a factor of 4.1 and in other countries by a factor of 2.2 on average. </p>
-
-<br>
-- **Voluntary Secessions and Development: Evidence from Brazilian Municipalities**. (Job Market Paper) New version coming soon! [[SSRN](https://ssrn.com/abstract=3125757){:target="_blank"}] (with [Christiane Szerman](https://scholar.princeton.edu/cszerman/bio){:target="_blank"})
+- **Decentralizing Development**. (Job Market Paper) August 2020 [[PDF](/files/papers/Dahis_JMP.pdf){:target="_blank"}] (with [Christiane Szerman](https://scholar.princeton.edu/cszerman/bio){:target="_blank"})
 
     Recipient of the _Susan Schmidt Bies Prize for Doctoral Student Research on Economics and Public Policy, 2018_
     
     Coverage: [BBC Brasil](https://www.bbc.com/portuguese/brasil-50402258){:target="_blank"}
 
-   <p style="text-align: justify;"> We exploit a period of proliferation of new administrative units in Brazil between 1988 and 2010, in which 1,146 municipalities were created (an increase of 35%), to investigate the short- and medium-term effects of secessions on socio-economic outcomes. We first argue that elite capture and fiscal incentives play an important role in secessions. Because the decision to secede is not random, we collect data on municipalities that had secession requests denied due to a Constitutional Amendment that curbed the formation of new municipalities after 1996 to create a control group for municipalities that seceded. Using past tract-level Census data to reconstruct outcomes for new boundaries, we find that secession is associated with better education, health, wealth, and public service outcomes. We document that the positive effects are mostly driven by new municipalities, while old municipalities present negligible changes. We show that increases in revenues do not fully explain our findings and we discuss further mechanisms, such as changes in state capacity, infrastructure, and migration. </p>
+   <p style="text-align: justify;"> This paper studies how decentralization affects local development. We exploit an episode of a remarkable increase in the number of new municipalities in Brazil to understand the long run impacts of municipal splits. Using a rich panel of spatial and administrative data, we first show that splits are initiated by poor and rural districts motivated by fiscal incentives and neglect from their parent municipality. When using areas whose request to split was never approved as a control group, we find that splitting increases economic activity and public service delivery in new municipalities. Parent municipalities remain unaffected. We document that increases in fiscal revenues and reduced physical remoteness from their administrators are the main channels explaining the results. Our findings suggest that decentralization in the presence of equalizing intergovernmental grants may effectively promote local development in large developing countries. </p>
+
+<br>
+- **Value of a Statistical Life Under Large Mortality Risk Change: Theory and an Application to COVID-19**. August 2020 [[SSRN](https://papers.ssrn.com/abstract=3599529){:target="_blank"}] (with [Diego S. Cardoso](https://sites.google.com/view/diegocardoso/){:target="_blank"})
+    
+    Coverage: [CNN Brasil](https://www.cnnbrasil.com.br/nacional/2020/04/22/quarentena-intensiva-traria-beneficio-de-r-298-bi-por-mes-ao-pais-diz-pesquisa){:target="_blank"}, [Instituto Mercado Popular](https://mercadopopular.org/economia/os-beneficios-economicos-do-distanciamento-social/){:target="_blank"}
+    
+    <p style="text-align: justify;"> Benefit analyses of mortality reduction policies typically use multiples of the value of a statistical life (VSL). This approach approximates risk premia for small changes in mortality, but inaccurately characterizes premia for large risk changes because it implies increasing marginal utility and a risk-loving attitude. We propose a method to calculate the benefits of large mortality reductions adjusting for risk aversion. We apply this method to calculate the benefits of social distancing and other mitigation strategies to combat COVID-19 in the US and 42 other countries. Our findings show that the typical approach underestimates the benefits of social distancing in the US by a factor of 4.1 and in other countries by a factor of 2.2 on average. </p>
 
 <br>
 - **Selecting Top Bureaucrats: Admission Exams and Performance in Brazil**. April 2020 [[SSRN](https://ssrn.com/abstract=3584725){:target="_blank"}] (with Laura Schiavon and Thiago Scot)
