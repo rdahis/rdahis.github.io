@@ -46,7 +46,7 @@ permalink: /research/
 
 <br>
 
-- **Genocide and the Demand for Formal Institutions: Evidence from the Legacy of the Khmer Rouge** (with Joris Mueller)
+- **Genocide and the Demand for Formal Institutions: Evidence from the Legacy of the Khmer Rouge** (with Dennis Egger and Joris Mueller)
 
    <p style="text-align: justify;"> The Cambodian genocide under the Khmer Rouge regime is remembered as one of the worst human tragedies of the 20th century. This paper examines the social and institutional legacies of this violent episode. We document that spatially more intense violence committed by the Khmer Rouge, proxied by exogenous adverse rainfall shocks during 1975–1977, is associated with a higher fraction of land covered by government-backed land titles in Cambodia today. We provide micro-level empirical evidence that social capital may play a role in explaining this result: Communities that experienced more violence had more of their social capital destroyed, increasing the demand for formal titles. We conclude that social capital may serve as a substitute for formal institutions in a context of weak state capacity. We complement our analysis by discussing several alternative mechanisms. </p>
 
