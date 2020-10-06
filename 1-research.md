@@ -6,7 +6,9 @@ permalink: /research/
 
 # Working Papers
 
-- **Decentralizing Development**. (Job Market Paper) August 2020 [[PDF](/files/papers/Dahis_JMP.pdf){:target="_blank"}] (with [Christiane Szerman](https://scholar.princeton.edu/cszerman/bio){:target="_blank"})
+[comment]: <> ([[PDF](/files/papers/Dahis_JMP.pdf){:target="_blank"}] )
+
+- **Decentralizing Development**. (Job Market Paper) (with [Christiane Szerman](https://scholar.princeton.edu/cszerman/bio){:target="_blank"})
 
     Recipient of the _Susan Schmidt Bies Prize for Doctoral Student Research on Economics and Public Policy, 2018_
     
