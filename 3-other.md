@@ -4,33 +4,11 @@ title: Other
 permalink: /other/
 ---
 
-## Template for Empirical Papers
-
-This [folder](https://github.com/rdahis/main_paper){:target="_blank"} provides an all-encompassing working structure for empirical papers. It organizes every step of the process: merging and cleaning (several) data sets, performing analyses (tables, figures, regressions), writing the article itself and also presentations.
-
-- Customize to fit your project.
-- Particularly useful for work involving multiple coauthors and RAs.
-- Principles: functional folder structure, modularity and automation.
-- Read the README file for more information.
-- Continuously under improvement. Suggestions are welcome, please just email me.
-
-<br>
-
-## Cleaning the Relação Anual de Informações Sociais (RAIS) dataset in Stata, 1985-2018
-
-This [repository](https://github.com/rdahis/clean_RAIS){:target="_blank"} provides code and tips to clean the Brazilian matched employer-employee dataset.
-
-- Read the README file for more information.
-
-<br>
-
-## Philosophy
-
-Some writing on politics, science, epistemology and randomness.
+## Writings on Philosophy, Science and Politics
 
 - **Ideology: A Nine-Dimensional Label** [[pdf](/files/papers/Dahis_Ideology.pdf){:target="_blank"}]
    
-   <p style="text-align: justify;"> Assuming that ideology, or political positions, can be meaningfully partitioned into groups of issues, in this essay I outline a nine-dimensional political label that is (i) much more informative than a one-dimensional left-right divide and (ii) still relatively simple to communicate. I first describe political labels as simplifying devices that reduce dimensionality from the full position space, then introduce the label and, lastly, I discuss how the framework relates to basic questions in politics. </p>
+   <p style="text-align: justify;"> Assuming that _ideology_, or _political positions_, can be meaningfully partitioned into groups of issues, in this essay I outline a nine-dimensional political label that is (i) much more informative than a one-dimensional left-right divide and (ii) still relatively simple to communicate. I first describe political labels as simplifying devices that reduce dimensionality from the full position space, then introduce the label and, lastly, I discuss how the framework relates to basic questions in politics. </p>
 
 - **The Belief Cloud: Framework and Applications** [[pdf](/files/papers/Dahis_BC.pdf){:target="_blank"}]
    
@@ -58,7 +36,6 @@ divides claims into facts, and those others that are still open for debate. The 
 - [Dahis (Nexo, 2016) Educação, o Útil, o Divertido e o Inútil](https://www.nexojornal.com.br/ensaio/2016/Educa%C3%A7%C3%A3o-o-%C3%BAtil-o-divertido-e-o-in%C3%BAtil)
 
 <br>
-
 
 ## Ice Cream Map
 
