@@ -8,7 +8,7 @@ permalink: /other/
 
 - **Ideology: A Nine-Dimensional Label** [[pdf](/files/papers/Dahis_Ideology.pdf){:target="_blank"}]
    
-   <p style="text-align: justify;"> Assuming that _ideology_, or _political positions_, can be meaningfully partitioned into groups of issues, in this essay I outline a nine-dimensional political label that is (i) much more informative than a one-dimensional left-right divide and (ii) still relatively simple to communicate. I first describe political labels as simplifying devices that reduce dimensionality from the full position space, then introduce the label and, lastly, I discuss how the framework relates to basic questions in politics. </p>
+   <p style="text-align: justify;"> Assuming that ideology, or political positions, can be meaningfully partitioned into groups of issues, in this essay I outline a nine-dimensional political label that is (i) much more informative than a one-dimensional left-right divide and (ii) still relatively simple to communicate. I first describe political labels as simplifying devices that reduce dimensionality from the full position space, then introduce the label and, lastly, I discuss how the framework relates to basic questions in politics. </p>
 
 - **The Belief Cloud: Framework and Applications** [[pdf](/files/papers/Dahis_BC.pdf){:target="_blank"}]
    
