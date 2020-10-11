@@ -28,6 +28,11 @@ stackoverflow_username: ricardo-dahis
 # Google Analytics
 google_analytics: UA-106568021-1
 
+# Google Tag Manager
+google:
+  tag_manager:
+    container_id: GTM-KJ4Q3WT
+
 # Build settings
 markdown: kramdown
 theme: minima
