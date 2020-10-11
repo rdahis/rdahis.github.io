@@ -37,6 +37,11 @@ plugins:
 # Extras
 mathjax: true
 
+defaults:
+  - scope:
+      path: "files/papers"
+    values:
+      paper: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
