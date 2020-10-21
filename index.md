@@ -4,7 +4,7 @@ layout: home
 
 <img src="./files/pictures/profile.jpg" alt="profile" style="width: 280px;" align="right"  />
 
-Welcome to my page. I am a 6th year PhD candidate in Economics at Northwestern University. Here is my [CV](/files/CV - Ricardo Dahis.pdf){:target="_blank"}, [SSRN](https://ssrn.com/author=2786164){:target="_blank"} and [Twitter](https://twitter.com/rdahis){:target="_blank"}.
+Welcome to my page. I am a 6th year PhD candidate in Economics at Northwestern University. Here is my [CV](/files/CV - Ricardo Dahis.pdf){:target="_blank"}, [SSRN](https://ssrn.com/author=2786164){:target="_blank"}, [Scholar](https://scholar.google.com/citations?user=iDi8BA8AAAAJ){:target="_blank"} and [Twitter](https://twitter.com/rdahis){:target="_blank"}.
 
 I am on the job market this year and available for interviews before, during and after the (virtual) 2021 EEA and ASSA meetings.
 
