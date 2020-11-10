@@ -6,15 +6,13 @@ permalink: /research/
 
 # Working Papers
 
-[comment]: <> ([[PDF](/files/papers/Dahis_JMP.pdf){:target="_blank"}] )
-
-- **Decentralizing Development**. (Job Market Paper) (with [Christiane Szerman](https://scholar.princeton.edu/cszerman/bio){:target="_blank"})
+- **Development via Administrative Redistricting: Evidence from Brazil**. (Job Market Paper) [[PDF](/files/papers/Dahis_JMP.pdf){:target="_blank"}] (with [Christiane Szerman](https://scholar.princeton.edu/cszerman/bio){:target="_blank"})
 
     Recipient of the _Susan Schmidt Bies Prize for Doctoral Student Research on Economics and Public Policy, 2018_
     
     Coverage: [BBC Brasil](https://www.bbc.com/portuguese/brasil-50402258){:target="_blank"}
 
-   <p style="text-align: justify;"> This paper studies how decentralization affects local development. We exploit an episode of a remarkable increase in the number of new municipalities in Brazil to understand the long run impacts of municipal splits. Using a rich panel of spatial and administrative data, we first show that splits are initiated by poor and rural districts motivated by fiscal incentives and neglect from their parent municipality. When using areas whose request to split was never approved as a control group, we find that splitting increases economic activity and public service delivery in new municipalities. Parent municipalities remain unaffected. We document that increases in fiscal revenues and reduced physical remoteness from their administrators are the main channels explaining the results. Our findings suggest that decentralization in the presence of equalizing intergovernmental grants may effectively promote local development in large developing countries. </p>
+   <p style="text-align: justify;"> We exploit a large redistricting episode in Brazil to examine if, and how, administrative unit splits impact local development. Using a rich panel of administrative and spatial data, we first document that requests to split are more likely to be initiated by poor and rural districts. Employing a difference-in-differences strategy with areas whose requests to split were never approved serving as a control group, we find that splitting leads to an expansion of the public sector, some improvements in public service delivery and children's education attainment, but no impacts on the private sector. Meanwhile, outcomes are unaffected in parent municipalities. Results are consistent with adaptations of policy to local preferences. Our results inform the equity-efficiency trade-off embedded in decentralization reforms worldwide. </p>
 
 <br>
 - **Selecting Top Bureaucrats: Admission Exams and Performance in Brazil**. April 2020 [[PDF](/files/papers/DSS_Selecting_Top_Bureaucrats.pdf){:target="_blank"}] [[SSRN](https://ssrn.com/abstract=3584725){:target="_blank"}] (with Laura Schiavon and Thiago Scot)
