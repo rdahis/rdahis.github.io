@@ -11,7 +11,7 @@ Mapping and reviewing ice cream spots worldwide, one at a time.
 _Money can't buy happinness. But it can buy ice cream, which is almost the same thing._
 
 <br>
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1p4BP4juwU4Jlq3GjpcGG50a5ZL_r_hVy" width="800" height="720"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1p4BP4juwU4Jlq3GjpcGG50a5ZL_r_hVy" width="720" height="500"></iframe>
 
 <br>
 
@@ -35,8 +35,7 @@ _Money can't buy happinness. But it can buy ice cream, which is almost the same 
 
 [comment]: <> - **The Belief Cloud: Framework and Applications** [[pdf](/files/papers/Dahis_BC.pdf){:target="_blank"}]
    
-[comment]: <>    <p style="text-align: justify;"> This essay introduces the concept of a belief cloud as a representation of belief structure over claims humans can make. It
-divides claims into facts, and those others that are still open for debate. The cloud represents the current state of our knowledge, and it also helps visualizing how it grows. Based on this framework, I discuss various applications in communication, policy making, business, and science. </p>
+[comment]: <>    <p style="text-align: justify;"> This essay introduces the concept of a belief cloud as a representation of belief structure over claims humans can make. It divides claims into facts, and those others that are still open for debate. The cloud represents the current state of our knowledge, and it also helps visualizing how it grows. Based on this framework, I discuss various applications in communication, policy making, business, and science. </p>
 
 [comment]: <> - **On Randomness and Probability** [[pdf](/files/papers/randomness_probability.pdf){:target="_blank"}]
 
