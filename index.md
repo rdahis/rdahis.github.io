@@ -4,7 +4,7 @@ layout: home
 
 <img src="./files/pictures/profile.jpg" alt="profile" style="width: 280px;" align="right"  />
 
-Welcome to my website! I am a 6th year PhD candidate in Economics at Northwestern University. My research is at the intersection of Development, Political Economy, Public and Environmental Economics, with an emphasis on low- and middle-income countries. I study topics related to decentralization, public service delivery, deforestation, and racial inequality.
+Welcome to my website! I am a 6th year PhD candidate in Economics at Northwestern University. My research is at the intersection of Development, Political Economy, Public, and Environmental Economics, with an emphasis on low- and middle-income countries. I study topics related to decentralization, public service delivery, deforestation, and racial inequality.
 
 I am on the job market this year and available for interviews before, during, and after the 2021 EEA and ASSA meetings.
 
