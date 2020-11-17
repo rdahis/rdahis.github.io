@@ -42,6 +42,12 @@ permalink: /research/
 
 # Work in Progress
 
+- **The Impact of 3G Mobile Internet on Educational Outcomes in Brazil**. (with [Pedro Bessone](http://economics.mit.edu/grad/bessone.tepedino) and Lisa Ho)
+
+   <p style="text-align: justify;"> Does the availability of mobile broadband internet affect children's test scores? We compare Portuguese and math scores before and after the staggered entry of 3G into Brazil's 5,570 municipalities using an event study design. We find that there is no effect of mobile internet on Portuguese or math scores, and can reject effect sizes of 0.02 standard deviations for 5th grade students, and 0.01 standard deviations for 9th grade students. Taken together, our results indicate that simply offering high-speed mobile internet is not enough to improve educational outcomes. </p>
+
+<br>
+
 - **Choosing Institutions Locally: Determinants of Legislative Size in Brazil**. April 2015 (available upon request)
 
    <p style="text-align: justify;"> How are institutions determined? This paper studies how legislators locally choose an important dimension of local electoral systems, namely legislative size. To achieve this end, I construct a novel data set comprised of seat proposals and individual legislators’ votes to increase or not legislative size during the pre-2012 election period for a sample of municipalities in Brazil. I then outline and estimate a structural discrete choice model of legislative vote, in which legislators play a strategic game and also decide whether to run for reelection or not. I find that legislators weigh on average approximately 34% reelection payoffs and 66% social welfare when choosing seats. With these results, I run some counterfactual analyses varying the population caps’ function that federal government chooses. </p>
