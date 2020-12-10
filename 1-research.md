@@ -15,7 +15,7 @@ permalink: /research/
    <p style="text-align: justify;"> We exploit a large redistricting episode in Brazil to examine if, and how, administrative unit splits impact local development. Using a rich panel of administrative and spatial data, we first document that requests to split are more likely to be initiated by poor and rural districts. Employing a difference-in-differences strategy with areas whose requests to split were never approved serving as a control group, we find that splitting leads to an expansion of the public sector, some improvements in public service delivery and children's education attainment, but no impacts on the private sector. Meanwhile, outcomes are unaffected in parent municipalities. Results are consistent with adaptations of policy to local preferences. Our results inform the equity-efficiency trade-off embedded in decentralization reforms worldwide. </p>
 
 <br>
-- **Selecting Top Bureaucrats: Admission Exams and Performance in Brazil**. April 2020 [[PDF](/files/papers/DSS_Selecting_Top_Bureaucrats.pdf){:target="_blank"}] [[SSRN](https://ssrn.com/abstract=3584725){:target="_blank"}] (with Laura Schiavon and Thiago Scot)
+- **Selecting Top Bureaucrats: Admission Exams and Performance in Brazil**. April 2020 [[PDF](/files/papers/DSS_Selecting_Top_Bureaucrats.pdf){:target="_blank"}] [[SSRN](https://ssrn.com/abstract=3584725){:target="_blank"}] (with Laura Schiavon and Thiago Scot) _Submitted_
 
    <p style="text-align: justify;"> In the absence of strong incentive schemes, public service delivery depends crucially on bureaucrat selection. Despite being widely adopted by governments to screen candidates, it is unclear whether civil service examinations can predict performance on the job. This paper investigates this question focusing on a highly prestigious and influential set of bureaucrats in Brazil: state judges. We first explore rich data on judges’ monthly output and cross-court movement to separately identify what share of observed performance is explained by judges and courts. We estimate that judges account for at least 23% of the observed variation in the number of cases disposed. Using a novel data set on examinations, we then show that, within cohorts of candidates taking the same exam, those with higher grades perform better than their lower-ranked peers. Our results suggest that competitive examinations can be an effective way to screen candidates, even among highly qualified contenders. </p>
 
@@ -32,7 +32,7 @@ permalink: /research/
    <p style="text-align: justify;"> Public policy often generates effects beyond its initial scope by changing the behavior of politicians and voters in response to it. This may be beneficial in a context of decentralized public good provision where individual and social incentives misalign. In this paper we study how a centralized environmental policy, which synced real-time satellite deforestation data with enforcement on the ground, further reduced forest loss by causing pro-agriculture politicians to cut back on effort. We assemble a comprehensive data set covering six electoral terms and show that, before the reform, municipalities governed by pro-agriculture mayors earmarked more resources to agriculture and had higher deforestation rates. However, after the reform, these differences disappear. We provide suggestive evidence that the policy affected political entry by making running for office less attractive for pro-agriculture candidates. Our findings indicate that the decline of the political influence of interest groups representing agriculture was an important mechanism through which the increases in the enforcement of the environmental legislation reduced deforestation. </p>
 
 <br>
-- **Value of a Statistical Life Under Large Mortality Risk Change: Theory and an Application to COVID-19**. August 2020 [[PDF](/files/papers/CD_VSL.pdf){:target="_blank"}] [[SSRN](https://papers.ssrn.com/abstract=3599529){:target="_blank"}] (with [Diego S. Cardoso](https://sites.google.com/view/diegocardoso/){:target="_blank"})
+- **Value of a Statistical Life Under Large Mortality Risk Change: Theory and an Application to COVID-19**. August 2020 [[PDF](/files/papers/CD_VSL.pdf){:target="_blank"}] [[SSRN](https://papers.ssrn.com/abstract=3599529){:target="_blank"}] (with [Diego S. Cardoso](https://sites.google.com/view/diegocardoso/){:target="_blank"}) _Submitted_
     
     Coverage: [CNN Brasil](https://www.cnnbrasil.com.br/nacional/2020/04/22/quarentena-intensiva-traria-beneficio-de-r-298-bi-por-mes-ao-pais-diz-pesquisa){:target="_blank"}, [Instituto Mercado Popular](https://mercadopopular.org/economia/os-beneficios-economicos-do-distanciamento-social/){:target="_blank"}
     
@@ -41,6 +41,12 @@ permalink: /research/
 <br>
 
 # Work in Progress
+
+- **The Impact of 3G Mobile Internet on Educational Outcomes in Brazil**. (with [Pedro Bessone](http://economics.mit.edu/grad/bessone.tepedino) and Lisa Ho)
+
+   <p style="text-align: justify;"> Does the availability of mobile broadband internet affect children's test scores? We compare Portuguese and math scores before and after the staggered entry of 3G into Brazil's 5,570 municipalities using an event study design. We find that there is no effect of mobile internet on Portuguese or math scores, and can reject effect sizes of 0.02 standard deviations for 5th grade students, and 0.01 standard deviations for 9th grade students. Taken together, our results indicate that simply offering high-speed mobile internet is not enough to improve educational outcomes. </p>
+
+<br>
 
 - **Choosing Institutions Locally: Determinants of Legislative Size in Brazil**. April 2015 (available upon request)
 
