@@ -15,12 +15,12 @@ permalink: /research/
    <p style="text-align: justify;"> We exploit a large redistricting episode in Brazil to examine if, and how, administrative unit splits impact local development. Using a rich panel of administrative and spatial data, we first document that requests to split are more likely to be initiated by poor and rural districts. Employing a difference-in-differences strategy with areas whose requests to split were never approved serving as a control group, we find that splitting leads to an expansion of the public sector, some improvements in public service delivery and children's education attainment, but no impacts on the private sector. Meanwhile, outcomes are unaffected in parent municipalities. Results are consistent with adaptations of policy to local preferences. Our results inform the equity-efficiency trade-off embedded in decentralization reforms worldwide. </p>
 
 <br>
-- **Selecting Top Bureaucrats: Admission Exams and Performance in Brazil**. April 2020 [[PDF](/files/papers/DSS_Selecting_Top_Bureaucrats.pdf){:target="_blank"}] [[SSRN](https://ssrn.com/abstract=3584725){:target="_blank"}] (with [Laura Schiavon](https://www.lauraschiavon.com/){:target="_blank"} and [Thiago Scot](https://sites.google.com/view/thiagoscot/){:target="_blank"}) _Submitted_
+- **Selecting Top Bureaucrats: Admission Exams and Performance in Brazil**. April 2020 [[PDF](/files/papers/DSS_Selecting_Top_Bureaucrats.pdf){:target="_blank"}] [[SSRN](https://ssrn.com/abstract=3584725){:target="_blank"}] (with [Laura Schiavon](https://www.lauraschiavon.com/){:target="_blank"} and [Thiago Scot](https://sites.google.com/view/thiagoscot/){:target="_blank"}) _Under review_
 
    <p style="text-align: justify;"> In the absence of strong incentive schemes, public service delivery depends crucially on bureaucrat selection. Despite being widely adopted by governments to screen candidates, it is unclear whether civil service examinations can predict performance on the job. This paper investigates this question focusing on a highly prestigious and influential set of bureaucrats in Brazil: state judges. We first explore rich data on judges’ monthly output and cross-court movement to separately identify what share of observed performance is explained by judges and courts. We estimate that judges account for at least 23% of the observed variation in the number of cases disposed. Using a novel data set on examinations, we then show that, within cohorts of candidates taking the same exam, those with higher grades perform better than their lower-ranked peers. Our results suggest that competitive examinations can be an effective way to screen candidates, even among highly qualified contenders. </p>
 
 <br>
-- **Changing Racial Identity in the United States, 1880-1940**. June 2020 [[PDF](/files/papers/DNQ_2020_0608_FINAL.pdf){:target="_blank"}] [[NBER Working Paper w26465](https://www.nber.org/papers/w26465){:target="_blank"}] (with [Emily Nix](https://sites.google.com/site/emilyenix/){:target="_blank"} and [Nancy Qian](https://www.kellogg.northwestern.edu/faculty/qian/){:target="_blank"}) _Submitted_
+- **Changing Racial Identity in the United States, 1880-1940**. June 2020 [[PDF](/files/papers/DNQ_2020_0608_FINAL.pdf){:target="_blank"}] [[NBER Working Paper w26465](https://www.nber.org/papers/w26465){:target="_blank"}] (with [Emily Nix](https://sites.google.com/site/emilyenix/){:target="_blank"} and [Nancy Qian](https://www.kellogg.northwestern.edu/faculty/qian/){:target="_blank"}) _Under review_
    
    Coverage: [The Weeds (40:45)](https://open.spotify.com/episode/0QluGZdvuc5lFtt2ygnEtC?si=gSSl7uggTbqXu-LU3YvRSQ){:target="_blank"}
    
@@ -45,12 +45,6 @@ permalink: /research/
 - **The Impact of 3G Mobile Internet on Educational Outcomes in Brazil**. (with [Pedro Bessone](http://economics.mit.edu/grad/bessone.tepedino) and Lisa Ho)
 
    <p style="text-align: justify;"> Does the availability of mobile broadband internet affect children's test scores? We compare Portuguese and math scores before and after the staggered entry of 3G into Brazil's 5,570 municipalities using an event study design. We find that there is no effect of mobile internet on Portuguese or math scores, and can reject effect sizes of 0.02 standard deviations for 5th grade students, and 0.01 standard deviations for 9th grade students. Taken together, our results indicate that simply offering high-speed mobile internet is not enough to improve educational outcomes. </p>
-
-<br>
-
-- **Choosing Institutions Locally: Determinants of Legislative Size in Brazil**. April 2015 (available upon request)
-
-   <p style="text-align: justify;"> How are institutions determined? This paper studies how legislators locally choose an important dimension of local electoral systems, namely legislative size. To achieve this end, I construct a novel data set comprised of seat proposals and individual legislators’ votes to increase or not legislative size during the pre-2012 election period for a sample of municipalities in Brazil. I then outline and estimate a structural discrete choice model of legislative vote, in which legislators play a strategic game and also decide whether to run for reelection or not. I find that legislators weigh on average approximately 34% reelection payoffs and 66% social welfare when choosing seats. With these results, I run some counterfactual analyses varying the population caps’ function that federal government chooses. </p>
 
 <br>
 
