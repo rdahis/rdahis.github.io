@@ -8,7 +8,7 @@ Welcome to my website! I am a 6th year PhD candidate in Economics at Northwester
 
 My research is in Development, Political Economy, and Environmental Economics, with an agenda on decentralization, public service delivery, deforestation, and racial inequality.
 
-I am on the job market this year and available for interviews before, during, and after the 2021 EEA and ASSA meetings.
+**I am joining the Economics department at PUC-Rio as an assistant professor starting in August 2021.**
 
 - Job market [webpage](https://sites.northwestern.edu/rdahis/) and [paper](http://www.ricardodahis.com/files/papers/Dahis_JMP.pdf)
 - [CV](/files/CV - Ricardo Dahis.pdf){:target="_blank"}
