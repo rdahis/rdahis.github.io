@@ -32,23 +32,26 @@ _Money can't buy happinness. But it can buy ice cream, which is almost the same 
 - ["Destruída 3 vezes, Nova Iorque teme ser extinta por governo Bolsonaro"](https://www.bbc.com/portuguese/brasil-50402258) [BBC Brasil, 2019]
 
 
+[comment]: <> [comment]: <> 
 
-[comment]: <> <br>
+<br>
 
-[comment]: <> ## Writings on Philosophy, Science and Politics
+## Writings on Research, Philosophy, Science and Politics
 
-[comment]: <> - **Ideology: A Nine-Dimensional Label** [[pdf](/files/papers/Dahis_Ideology.pdf)]
+- **Advice for Academic Research** [[pdf](/files/papers/Dahis_Advice_Research.pdf)]
+
+- **Ideology: A Nine-Dimensional Label** [[pdf](/files/papers/Dahis_Ideology.pdf)]
    
-[comment]: <>    <p style="text-align: justify;"> Assuming that ideology, or political positions, can be meaningfully partitioned into groups of issues, in this essay I outline a nine-dimensional political label that is (i) much more informative than a one-dimensional left-right divide and (ii) still relatively simple to communicate. I first describe political labels as simplifying devices that reduce dimensionality from the full position space, then introduce the label and, lastly, I discuss how the framework relates to basic questions in politics. </p>
+    <p style="text-align: justify;"> Assuming that ideology, or political positions, can be meaningfully partitioned into groups of issues, in this essay I outline a nine-dimensional political label that is (i) much more informative than a one-dimensional left-right divide and (ii) still relatively simple to communicate. I first describe political labels as simplifying devices that reduce dimensionality from the full position space, then introduce the label and, lastly, I discuss how the framework relates to basic questions in politics. </p>
 
-[comment]: <> - **The Belief Cloud: Framework and Applications** [[pdf](/files/papers/Dahis_BC.pdf){:target="_blank"}]
+- **The Belief Cloud: Framework and Applications** [[pdf](/files/papers/Dahis_BC.pdf){:target="_blank"}]
    
-[comment]: <>    <p style="text-align: justify;"> This essay introduces the concept of a belief cloud as a representation of belief structure over claims humans can make. It divides claims into facts, and those others that are still open for debate. The cloud represents the current state of our knowledge, and it also helps visualizing how it grows. Based on this framework, I discuss various applications in communication, policy making, business, and science. </p>
+    <p style="text-align: justify;"> This essay introduces the concept of a belief cloud as a representation of belief structure over claims humans can make. It divides claims into facts, and those others that are still open for debate. The cloud represents the current state of our knowledge, and it also helps visualizing how it grows. Based on this framework, I discuss various applications in communication, policy making, business, and science. </p>
 
-[comment]: <> - **On Randomness and Probability** [[pdf](/files/papers/randomness_probability.pdf){:target="_blank"}]
+- **On Randomness and Probability** [[pdf](/files/papers/randomness_probability.pdf){:target="_blank"}]
 
-[comment]: <>    <p style="text-align: justify;"> This essay provides coherent definitions of two bedrock concepts in philosophy and statistics: randomness and probability. When constructing the first, I define repeatability, the measurement set, and distinguish between frequency vs. value prediction. The definition of randomness proposed, namely of a random variable not being perfectly value-predictable for any given information set, is stronger than those commonly used in the literature. Second, after defining probability as a theory about a variable's potential frequency distribution, I argue that the dichotomy between frequentist and bayesian interpretations is illusory. I conclude with remarks about knowledge and determinism. </p>
+    <p style="text-align: justify;"> This essay provides coherent definitions of two bedrock concepts in philosophy and statistics: randomness and probability. When constructing the first, I define repeatability, the measurement set, and distinguish between frequency vs. value prediction. The definition of randomness proposed, namely of a random variable not being perfectly value-predictable for any given information set, is stronger than those commonly used in the literature. Second, after defining probability as a theory about a variable's potential frequency distribution, I argue that the dichotomy between frequentist and bayesian interpretations is illusory. I conclude with remarks about knowledge and determinism. </p>
 
-[comment]: <> - **Is Economics a Science? Not Yet.** [[pdf](https://www.ricardodahis.com/files/papers/Dahis_IEAS.pdf){:target="_blank"}] [[SSRN](http://ssrn.com/abstract=3036961){:target="_blank"}]
+- **Is Economics a Science? Not Yet.** [[pdf](https://www.ricardodahis.com/files/papers/Dahis_IEAS.pdf){:target="_blank"}] [[SSRN](http://ssrn.com/abstract=3036961){:target="_blank"}]
 
-[comment]: <>    <p style="text-align: justify;"> Is economics a science? Answering this question is not only necessary for philosophical clarity, but also crucial for knowing how seriously to take economists’ claims and advice about public policy. Nevertheless, even among practitioners and academics, consensus is nonexistent. This paper resolves the conundrum in two steps. First I discuss some epistemology of science, defining clearly various concepts necessary to the debate. Several fallacies are clarified, such as "a theory may never be proved true, but only not falsified", "a model is useful because it simplifies reality" or "data mining is bad". In light of solid philosophical ground, I then discuss the practice and methodology of modern economics. The answer to the title question is a perhaps disappointing, but realistic, not yet. I conclude with prescriptions for a path towards a more scientific discipline.  </p>
+    <p style="text-align: justify;"> Is economics a science? Answering this question is not only necessary for philosophical clarity, but also crucial for knowing how seriously to take economists’ claims and advice about public policy. Nevertheless, even among practitioners and academics, consensus is nonexistent. This paper resolves the conundrum in two steps. First I discuss some epistemology of science, defining clearly various concepts necessary to the debate. Several fallacies are clarified, such as "a theory may never be proved true, but only not falsified", "a model is useful because it simplifies reality" or "data mining is bad". In light of solid philosophical ground, I then discuss the practice and methodology of modern economics. The answer to the title question is a perhaps disappointing, but realistic, not yet. I conclude with prescriptions for a path towards a more scientific discipline.  </p>
