@@ -22,7 +22,7 @@ permalink: /research/
 <br>
 - **Changing Racial Identity in the United States, 1880-1940**. June 2020 [[PDF](/files/papers/DNQ_2020_0608_FINAL.pdf){:target="_blank"}] [[NBER Working Paper w26465](https://www.nber.org/papers/w26465){:target="_blank"}] (with [Emily Nix](https://sites.google.com/site/emilyenix/){:target="_blank"} and [Nancy Qian](https://www.kellogg.northwestern.edu/faculty/qian/){:target="_blank"}) _Under review_
    
-   Coverage: [The Weeds (40:45)](https://open.spotify.com/episode/0QluGZdvuc5lFtt2ygnEtC?si=gSSl7uggTbqXu-LU3YvRSQ){:target="_blank"}
+   Coverage: [The Weeds (40:45)](https://open.spotify.com/episode/0QluGZdvuc5lFtt2ygnEtC?si=gSSl7uggTbqXu-LU3YvRSQ){:target="_blank"}, [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/jim-crow-era-discrimination-violence-black-men-passed-white){:target="_blank"}
    
    <p style="text-align: justify;"> This paper documents that a large number of African American men experienced a change in racial identity to white during 1880 to 1940, while analogous changes were negligible for other races. We provide descriptive evidence that is consistent with the conventional wisdom that “passing” for white was a response to severe discrimination, and came at great personal cost. The findings suggest that contrary to traditional economic thinking, racial identity is neither entirely exogenous nor fixed over the lifetime, and responds to incentives. </p>
 
