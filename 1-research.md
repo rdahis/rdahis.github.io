@@ -6,7 +6,7 @@ permalink: /research/
 
 # Working Papers
 
-- **Development via Administrative Redistricting: Evidence from Brazil**. (Job Market Paper) [[PDF](/files/papers/Dahis_JMP.pdf){:target="_blank"}] (with [Christiane Szerman](https://scholar.princeton.edu/cszerman/bio){:target="_blank"})
+- **Development via Administrative Redistricting: Evidence from Brazil**. (Job Market Paper) April 2021 [[PDF](/files/papers/Dahis_JMP.pdf){:target="_blank"}] (with [Christiane Szerman](https://scholar.princeton.edu/cszerman/bio){:target="_blank"})
 
     Recipient of the _Susan Schmidt Bies Prize for Doctoral Student Research on Economics and Public Policy, 2018_
     
