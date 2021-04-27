@@ -39,12 +39,13 @@ permalink: /research/
     <p style="text-align: justify;"> Benefit analyses of mortality reduction policies typically use multiples of the value of a statistical life (VSL). This approach approximates risk premia for small changes in mortality, but inaccurately characterizes premia for large risk changes because it implies increasing marginal utility and a risk-loving attitude. We propose a method to calculate the benefits of large mortality reductions adjusting for risk aversion. We apply this method to calculate the benefits of social distancing and other mitigation strategies to combat COVID-19 in the US and 42 other countries. Our findings show that the typical approach underestimates the benefits of social distancing in the US by a factor of 4.1 and in other countries by a factor of 2.2 on average. </p>
 
 <br>
+- **The Impact of 3G Mobile Internet on Educational Outcomes in Brazil**. April 2021 [[PDF](/files/papers/Bessone, Dahis, and Ho (2021) The Impact of 3G Mobile Internet on Educational Outcomes in Brazil.pdf){:target="_blank"}] (with [Pedro Bessone](http://economics.mit.edu/grad/bessone.tepedino) and Lisa Ho)
+
+   <p style="text-align: justify;"> What is the impact of mobile broadband internet on children's test scores? We compare standardized test scores before and after the staggered entry of 3G into Brazil's 5,570 municipalities using a heterogeneity-robust event-study design. We find no effects of mobile internet on test scores for 5th or 9th grade students, and can reject effect sizes of 0.04 standard deviations in both math and Portuguese. Taken together, our results indicate that the arrival of high-speed mobile internet is not suf- ficient to improve educational outcomes either through direct take-up by individuals or through broader changes to the economy. </p>
+
+<br>
 
 # Work in Progress
-
-- **The Impact of 3G Mobile Internet on Educational Outcomes in Brazil**. (with [Pedro Bessone](http://economics.mit.edu/grad/bessone.tepedino) and Lisa Ho)
-
-   <p style="text-align: justify;"> Does the availability of mobile broadband internet affect children's test scores? We compare Portuguese and math scores before and after the staggered entry of 3G into Brazil's 5,570 municipalities using an event study design. We find that there is no effect of mobile internet on Portuguese or math scores, and can reject effect sizes of 0.02 standard deviations for 5th grade students, and 0.01 standard deviations for 9th grade students. Taken together, our results indicate that simply offering high-speed mobile internet is not enough to improve educational outcomes. </p>
 
 <br>
 
