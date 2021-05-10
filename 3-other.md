@@ -17,6 +17,8 @@ _Money can't buy happinness. But it can buy ice cream, which is almost the same 
 
 ## Op-Eds, Press, and Podcasts
 
+- [A covid-19 acabou com o "efeito mandante" no Brasileirão?](https://www.nexojornal.com.br/ensaio/2021/A-covid-19-acabou-com-o-%E2%80%98efeito-mandante%E2%80%99-no-Brasileir%C3%A3o) [Nexo Jornal, Maio 2021] (with Eduardo Bartholomay)
+
 - ["Como salvar empregos para o Brasil pós-coronavírus"](https://www1.folha.uol.com.br/mercado/2020/03/como-salvar-empregos-para-o-brasil-pos-coronavirus.shtml)  [Folha de São Paulo, 2020] (with [Carlos Góes](https://carlosgoes.com/))
 
 - ["PhD em Economia nos EUA"](https://open.spotify.com/episode/1rhl7RCedUeninvjYfrKYH?si=wiR17Hk9RJGez6a3Z4jrFQ) [Ressonâncias Podcast, 2019]
