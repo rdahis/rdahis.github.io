@@ -4,17 +4,6 @@ title: Other
 permalink: /other/
 ---
 
-## Ice Cream Map
-
-Mapping and reviewing ice cream spots worldwide, one at a time.
-
-_Money can't buy happinness. But it can buy ice cream, which is almost the same thing._
-
-<br>
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1p4BP4juwU4Jlq3GjpcGG50a5ZL_r_hVy" width="720" height="450"></iframe>
-
-<br>
-
 ## Op-Eds, Press, and Podcasts
 
 - [A covid-19 acabou com o "efeito mandante" no Brasileirão?](https://www.nexojornal.com.br/ensaio/2021/A-covid-19-acabou-com-o-%E2%80%98efeito-mandante%E2%80%99-no-Brasileir%C3%A3o) [Nexo Jornal, Maio 2021] (with Eduardo Bartholomay)
@@ -57,3 +46,14 @@ _Money can't buy happinness. But it can buy ice cream, which is almost the same 
 - **Is Economics a Science? Not Yet.** [[pdf](https://www.ricardodahis.com/files/papers/Dahis_IEAS.pdf){:target="_blank"}] [[SSRN](http://ssrn.com/abstract=3036961){:target="_blank"}]
 
     <p style="text-align: justify;"> Is economics a science? Answering this question is not only necessary for philosophical clarity, but also crucial for knowing how seriously to take economists’ claims and advice about public policy. Nevertheless, even among practitioners and academics, consensus is nonexistent. This paper resolves the conundrum in two steps. First I discuss some epistemology of science, defining clearly various concepts necessary to the debate. Several fallacies are clarified, such as "a theory may never be proved true, but only not falsified", "a model is useful because it simplifies reality" or "data mining is bad". In light of solid philosophical ground, I then discuss the practice and methodology of modern economics. The answer to the title question is a perhaps disappointing, but realistic, not yet. I conclude with prescriptions for a path towards a more scientific discipline.  </p>
+
+<br>
+
+## Ice Cream Map
+
+Mapping and reviewing ice cream spots worldwide, one at a time.
+
+_Money can't buy happinness. But it can buy ice cream, which is almost the same thing._
+
+<br>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1p4BP4juwU4Jlq3GjpcGG50a5ZL_r_hVy" width="720" height="450"></iframe>

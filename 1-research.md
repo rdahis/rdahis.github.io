@@ -6,7 +6,7 @@ permalink: /research/
 
 # Working Papers
 
-- **Development via Administrative Redistricting: Evidence from Brazil**. (Job Market Paper) May 2021 [[PDF](/files/papers/Dahis and Szerman (2021) Development via Administrative Redistricting.pdf){:target="_blank"}] (with [Christiane Szerman](https://sites.google.com/view/cszerman/){:target="_blank"})
+- **Development via Administrative Redistricting: Evidence from Brazil**. May 2021 [[PDF](/files/papers/Dahis and Szerman (2021) Development via Administrative Redistricting.pdf){:target="_blank"}] (with [Christiane Szerman](https://sites.google.com/view/cszerman/){:target="_blank"})
 
     Recipient of the _Susan Schmidt Bies Prize for Doctoral Student Research on Economics and Public Policy, 2018_
     
