@@ -25,10 +25,8 @@ permalink: /research/
 **Development via Administrative Redistricting: Evidence from Brazil** (with [Christiane Szerman](https://sites.google.com/view/cszerman/){:target="_blank"})
   - Last Updated: May 2021
   - [PDF](/files/papers/Dahis and Szerman (2021) Development via Administrative Redistricting.pdf){:target="_blank"}
-
- Recipient of the _Susan Schmidt Bies Prize for Doctoral Student Research on Economics and Public Policy, 2018_
-    
- Coverage: [BBC Brasil](https://www.bbc.com/portuguese/brasil-50402258){:target="_blank"}
+  - Coverage: [BBC Brasil](https://www.bbc.com/portuguese/brasil-50402258){:target="_blank"}
+  - Recipient of the _Susan Schmidt Bies Prize for Doctoral Student Research on Economics and Public Policy, 2018_
 
 <p style="text-align: justify;"> We exploit a large redistricting episode in Brazil to examine if, and how, administrative unit splits impact local development. Using a rich panel of administrative and spatial data, we first document that requests to split are more likely to be initiated by poor and rural districts. Employing a difference-in-differences strategy with areas whose requests to split were never approved serving as a control group, we find that splitting leads to an expansion of the public sector, some improvements in public service delivery and children's education attainment, but no impacts on the private sector. Meanwhile, outcomes are unaffected in parent municipalities. Results are consistent with adaptations of policy to local preferences. Our results inform the equity-efficiency trade-off embedded in decentralization reforms worldwide. </p>
 
@@ -36,9 +34,8 @@ permalink: /research/
 **Changing Racial Identity in the United States, 1880-1940** (with [Emily Nix](https://sites.google.com/site/emilyenix/){:target="_blank"} and [Nancy Qian](https://www.kellogg.northwestern.edu/faculty/qian/){:target="_blank"})
   - Last Updated: June 2020
   - [PDF](/files/papers/DNQ_2020_0608_FINAL.pdf){:target="_blank"}, [NBER Working Paper w26465](https://www.nber.org/papers/w26465){:target="_blank"}
+  - Coverage: [The Weeds (40:45)](https://open.spotify.com/episode/0QluGZdvuc5lFtt2ygnEtC?si=gSSl7uggTbqXu-LU3YvRSQ){:target="_blank"}, [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/jim-crow-era-discrimination-violence-black-men-passed-white){:target="_blank"}
   - _Under review_
-   
-Coverage: [The Weeds (40:45)](https://open.spotify.com/episode/0QluGZdvuc5lFtt2ygnEtC?si=gSSl7uggTbqXu-LU3YvRSQ){:target="_blank"}, [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/jim-crow-era-discrimination-violence-black-men-passed-white){:target="_blank"}
    
 <p style="text-align: justify;"> This paper documents that a large number of African American men experienced a change in racial identity to white during 1880 to 1940, while analogous changes were negligible for other races. We provide descriptive evidence that is consistent with the conventional wisdom that “passing” for white was a response to severe discrimination, and came at great personal cost. The findings suggest that contrary to traditional economic thinking, racial identity is neither entirely exogenous nor fixed over the lifetime, and responds to incentives. </p>
 
@@ -54,9 +51,8 @@ Coverage: [The Weeds (40:45)](https://open.spotify.com/episode/0QluGZdvuc5lFtt2y
 **Value of a Statistical Life Under Large Mortality Risk Change: Theory and an Application to COVID-19** (with [Diego S. Cardoso](https://www.diegoscardoso.com/){:target="_blank"})
   - Last Updated: August 2020
   - [PDF](/files/papers/CD_VSL.pdf){:target="_blank"}, [SSRN](https://papers.ssrn.com/abstract=3599529){:target="_blank"}
+  - Coverage: [CNN Brasil](https://www.cnnbrasil.com.br/nacional/2020/04/22/quarentena-intensiva-traria-beneficio-de-r-298-bi-por-mes-ao-pais-diz-pesquisa){:target="_blank"}, [Instituto Mercado Popular](https://mercadopopular.org/economia/os-beneficios-economicos-do-distanciamento-social/){:target="_blank"}
   - _Submitted_
-    
-Coverage: [CNN Brasil](https://www.cnnbrasil.com.br/nacional/2020/04/22/quarentena-intensiva-traria-beneficio-de-r-298-bi-por-mes-ao-pais-diz-pesquisa){:target="_blank"}, [Instituto Mercado Popular](https://mercadopopular.org/economia/os-beneficios-economicos-do-distanciamento-social/){:target="_blank"}
     
 <p style="text-align: justify;"> Benefit analyses of mortality reduction policies typically use multiples of the value of a statistical life (VSL). This approach approximates risk premia for small changes in mortality, but inaccurately characterizes premia for large risk changes because it implies increasing marginal utility and a risk-loving attitude. We propose a method to calculate the benefits of large mortality reductions adjusting for risk aversion. We apply this method to calculate the benefits of social distancing and other mitigation strategies to combat COVID-19 in the US and 42 other countries. Our findings show that the typical approach underestimates the benefits of social distancing in the US by a factor of 4.1 and in other countries by a factor of 2.2 on average. </p>
 
