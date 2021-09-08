@@ -60,6 +60,9 @@ permalink: /research/
 
 # Work in Progress
 
+**Promotions, Performance, and Diversity in the Brazilian Judiciary** (with [Laura Schiavon](https://www.lauraschiavon.com/){:target="_blank"} and [Thiago Scot](https://sites.google.com/view/thiagoscot/){:target="_blank"})
+
+<br>
 **Killing the Forest: Assassinations and Deforestation in Brazil** (with [Mariana Carvalho](https://www.maricarvalho.com/) and [Thiago Ventura](https://tiagoventura.rbind.io/))
 
 <br>
