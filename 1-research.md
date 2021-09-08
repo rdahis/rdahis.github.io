@@ -60,7 +60,7 @@ permalink: /research/
 
 # Work in Progress
 
-**Killing the Forest: Assinations and Deforestation in Brazil** (with [Mariana Carvalho](https://www.maricarvalho.com/) and [Thiago Ventura](https://tiagoventura.rbind.io/))
+**Killing the Forest: Assassinations and Deforestation in Brazil** (with [Mariana Carvalho](https://www.maricarvalho.com/) and [Thiago Ventura](https://tiagoventura.rbind.io/))
 
 <br>
 **Family Concentration in Public and Private Organizations**
