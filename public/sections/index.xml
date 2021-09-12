@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Ricardo Dahis</title>
+    <link>https://rdahis.github.io/sections/</link>
+    <description>Recent content in Sections on Ricardo Dahis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://rdahis.github.io/sections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://rdahis.github.io/sections/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdahis.github.io/sections/about/</guid>
+      <description>I am an Assistant Professor at the Department of Economics at PUC-Rio.
+My research is in Development, Political Economy, and Environmental Economics, with an agenda on decentralization, public service delivery, deforestation, and racial inequality.
+I have co-founded Base dos Dados, an open data repository and search engine for Brazil. It facilitates data work for academics, journalists, policy makers, and developers.
+Curriculum Vitae, Lattes, Github
+Social Media: Twitter, LinkedIn
+Academic Networks: Google Scholar, SSRN, ORCID.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rdahis.github.io/sections/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdahis.github.io/sections/contact/</guid>
+      <description>Email: rdahis@econ.puc-rio.br
+Address: PUC-Rio Rua Marquês de São Vicente 225, 2º andar, Departamento de Economia Rio de Janeiro, RJ - 22541-041, Brazil</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rdahis.github.io/sections/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdahis.github.io/sections/personal/</guid>
+      <description>Ice Cream Map: Mapping and reviewing ice cream spots worldwide, one at a time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rdahis.github.io/sections/teaching-advising/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdahis.github.io/sections/teaching-advising/</guid>
+      <description>Teaching: ECON 2201: Development Economics
+Office Hours: Zoom appointments booked online. If the above slots don&amp;rsquo;t work for you, please email me to set up a meeting.
+Advising: Information for (potential) advisees</description>
+    </item>
+    
+    <item>
+      <title>Information for Potential Advisees</title>
+      <link>https://rdahis.github.io/sections/info_for_potential_advisees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdahis.github.io/sections/info_for_potential_advisees/</guid>
+      <description>TEST</description>
+    </item>
+    
+  </channel>
+</rss>
